@@ -1665,7 +1665,7 @@ function DamageInfo(result, moveHits, isFirstHit = false) {
 
 // please add the new setdex to this function whenever adding a new gen
 function isFacilitySet(speciesName, setName) {
-	let setdexMaps = [SETDEX_EM, SETDEX_PHGSS, SETDEX_GEN5, SETDEX_GEN6, SETDEX_GEN7, SETDEX_GEN8, SETDEX_GEN80];
+	let setdexMaps = [SETDEX_EM, SETDEX_PHGSS, SETDEX_GEN5, SETDEX_GEN6, SETDEX_GEN7, SETDEX_GEN8, SETDEX_GEN80, SETDEX_SV];
 	for (let setdexMap of setdexMaps) {
 		let speciesSets = setdexMap[speciesName];
 		if (speciesSets && (setName in speciesSets)) {
@@ -1768,7 +1768,7 @@ $(".gen").change(function () {
 		$(".evo_img1").attr("src", "_images/dozo.png");
 		$(".evo_img2").attr("src", "_images/giri.png");
 		pokedex = POKEDEX_SV;
-		setdex = {};
+		setdex = SETDEX_SV;
 		typeChart = TYPE_CHART_XY;
 		moves = MOVES_SV;
 		items = ITEMS_SV;
