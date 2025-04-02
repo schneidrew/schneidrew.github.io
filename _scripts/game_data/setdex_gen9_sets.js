@@ -154,7 +154,7 @@ SETDEX_SV = {
         "at": 255
       },
       "moves": [
-        "Double Slap",
+        "Double Hit",
         "Sand Attack",
         "Baton Pass",
         "Agility"
@@ -2938,7 +2938,7 @@ SETDEX_SV = {
       "moves": [
         "Solar Beam",
         "Fire Blast",
-        "Hidden Power",
+        "Earth Power",
         "Sunny Day"
       ],
       "nature": "Modest",
@@ -6584,7 +6584,7 @@ SETDEX_SV = {
         "Psychic",
         "Thunderbolt",
         "Infestation",
-        "Hidden Power"
+        "Thunder Wave"
       ],
       "nature": "Modest",
       "item": "Bright Powder"
