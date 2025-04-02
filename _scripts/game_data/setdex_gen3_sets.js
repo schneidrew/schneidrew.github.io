@@ -6,7 +6,7 @@ SETDEX_EM = {
         "sa": 255
       },
       "moves": [
-        "Mega Drain",
+        "Explosion",
         "Helping Hand",
         "Sunny Day",
         "Light Screen"
