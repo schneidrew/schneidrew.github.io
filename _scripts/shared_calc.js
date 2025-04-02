@@ -174,7 +174,7 @@ $("#autoivs-center").change(function () {
 });
 
 $("#autoivsL").change(function () {
-	if (gen != 3 && gen != 4) {
+	if (gen != 3 && gen != 4 && gen != 9) {
 		return;
 	}
 	setIVSelectors($("#p1"), "L");
@@ -197,7 +197,7 @@ function setIVSelectors(poke, side) {
 
 function getAutoIVValue(side) {
 	let autoIVs;
-	if (gen == 3) {
+	if (gen == 3 || gen == 9) {
 		autoIVs = parseInt($("#autoivs" + side + " #autoivs-select").find(":selected").val());
 	} else if (gen == 4) {
 		autoIVs = parseInt($("#autoivs" + side + " #autoivs-box").val());
@@ -1765,8 +1765,8 @@ $(".gen").change(function () {
 		forumLink = "https://www.smogon.com/forums/threads/bdsp-battle-tower-discussion-records.3693739/";
 		break;
 	case 9:
-		$(".evo_img1").attr("src", "_images/dozo.png");
-		$(".evo_img2").attr("src", "_images/giri.png");
+		// $(".evo_img1").attr("src", "_images/dozo.png");
+		// $(".evo_img2").attr("src", "_images/giri.png");
 		pokedex = POKEDEX_SV;
 		setdex = SETDEX_SV;
 		typeChart = TYPE_CHART_XY;
@@ -1775,8 +1775,9 @@ $(".gen").change(function () {
 		abilities = ABILITIES_SV;
 		calculateAllMoves = CALCULATE_ALL_MOVES_MODERN;
 		forumLink = "https://www.smogon.com/forums/forums/battle-facilities.697/";
-		$("#startGimmick-label").text("Start Terastallized");
-		$("#startGimmick-label").prop("title", "This custom set starts Terastallized when loaded");
+		$(".autoivs-select").find("option").remove().end().append(getSelectOptions(IVS_GEN3));
+		// $("#startGimmick-label").text("Start Terastallized");
+		// $("#startGimmick-label").prop("title", "This custom set starts Terastallized when loaded");
 	}
 	localStorage.setItem("selectedGen", gen);
 	$("#autolevel-title").text((gen == 4 ? "AI " : "") + "Auto-Level to:");
