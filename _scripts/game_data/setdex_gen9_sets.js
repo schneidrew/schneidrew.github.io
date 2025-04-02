@@ -2657,7 +2657,7 @@ SETDEX_SV = {
         "Sleep Talk",
         "Rest"
       ],
-      "nature": "Impish",
+      "nature": "Bold",
       "item": "Chesto Berry"
     },
     "Exploud-2 (383)": {
@@ -8568,7 +8568,7 @@ SETDEX_SV = {
         "Crunch",
         "Thunder Punch"
       ],
-      "nature": "Modest",
+      "nature": "Adamant",
       "item": "Bright Powder"
     }
   },
@@ -10496,7 +10496,7 @@ SETDEX_SV = {
         "Ice Punch",
         "Crunch"
       ],
-      "nature": "Modest",
+      "nature": "Adamant",
       "item": "Lum Berry"
     },
     "Ursaring-4 (636)": {
@@ -10842,7 +10842,7 @@ SETDEX_SV = {
         "Moonlight",
         "Aromatherapy"
       ],
-      "nature": "Impish",
+      "nature": "Modest",
       "item": "Persim Berry"
     },
     "Vileplume-2 (448)": {
