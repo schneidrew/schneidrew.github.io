@@ -197,12 +197,14 @@ function setIVSelectors(poke, side) {
 
 function getAutoIVValue(side) {
 	let autoIVs;
-	if (gen == 3 || gen == 9) {
+	if (gen == 3) {
 		autoIVs = parseInt($("#autoivs" + side + " #autoivs-select").find(":selected").val());
 	} else if (gen == 4) {
 		autoIVs = parseInt($("#autoivs" + side + " #autoivs-box").val());
 	} else if (gen <= 7) {
 		autoIVs = parseInt($('#autoivs-center #autoivs-select').find(":selected").val());
+	} else if (gen == 9) {
+		autoIVs = parseInt($("#autoivs" + side + " #autoivs-select").find(":selected").val());
 	}
 	if (isNaN(autoIVs)) {
 		return 31;

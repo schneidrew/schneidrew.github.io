@@ -36,7 +36,7 @@ $("#maxR").change(function () {
 });
 
 $("#autoivsR").change(function () {
-	if (gen != 3 && gen != 4) {
+	if (gen != 3 && gen != 4 && gen != 9) {
 		return;
 	}
 	setIVSelectors($("#p2"), "R");
