@@ -9283,7 +9283,7 @@ SETDEX_SV = {
       },
       "moves": [
         "Mega Kick",
-        "Hi Horsepower",
+        "High Horsepower",
         "Swagger",
         "Psych Up"
       ],
