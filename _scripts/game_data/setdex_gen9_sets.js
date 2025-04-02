@@ -154,7 +154,7 @@ SETDEX_SV = {
         "at": 255
       },
       "moves": [
-        "Scratch",
+        "Double Slap",
         "Sand Attack",
         "Baton Pass",
         "Agility"
