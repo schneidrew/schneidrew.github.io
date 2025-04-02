@@ -154,8 +154,8 @@ SETDEX_SV = {
         "at": 255
       },
       "moves": [
-        "Fury Swipes",
-        "Sand-Attack",
+        "Scratch",
+        "Sand Attack",
         "Baton Pass",
         "Agility"
       ],
@@ -584,7 +584,7 @@ SETDEX_SV = {
         "sa": 170
       },
       "moves": [
-        "Freeze Dry",
+        "Freeze-Dry",
         "Mirror Coat",
         "Rest",
         "Reflect"
@@ -1036,7 +1036,7 @@ SETDEX_SV = {
         "Needle Arm",
         "Feint Attack",
         "Cotton Spore",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Quirky",
       "item": "Sitrus Berry"
@@ -1474,7 +1474,7 @@ SETDEX_SV = {
         "Ember",
         "Double Kick",
         "Quick Attack",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Docile",
       "item": "Scope Lens"
@@ -1489,7 +1489,7 @@ SETDEX_SV = {
         "Flamethrower",
         "Sky Uppercut",
         "Slash",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Docile",
       "item": "Scope Lens"
@@ -2730,7 +2730,7 @@ SETDEX_SV = {
         "Drill Peck",
         "Tri Attack",
         "Facade",
-        "Mud Slap"
+        "Mud-Slap"
       ],
       "nature": "Adamant",
       "item": "Sharp Beak"
@@ -2866,7 +2866,7 @@ SETDEX_SV = {
         "Flamethrower",
         "Roar",
         "Bite",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Modest",
       "item": "Sitrus Berry"
@@ -4190,7 +4190,7 @@ SETDEX_SV = {
       "moves": [
         "Whirlpool",
         "Scary Face",
-        "Mud Slap",
+        "Mud-Slap",
         "Bite"
       ],
       "nature": "Quiet",
@@ -4487,7 +4487,7 @@ SETDEX_SV = {
       "moves": [
         "Mega Drain",
         "Ancient Power",
-        "Sand-Attack",
+        "Sand Attack",
         "Protect"
       ],
       "nature": "Hardy",
@@ -5230,7 +5230,7 @@ SETDEX_SV = {
         "Slam",
         "Brick Break",
         "Lick",
-        "Mud Slap"
+        "Mud-Slap"
       ],
       "nature": "Quirky",
       "item": "Sitrus Berry"
@@ -5275,7 +5275,7 @@ SETDEX_SV = {
       },
       "moves": [
         "Secret Power",
-        "Sand-Attack",
+        "Sand Attack",
         "Covet",
         "Tickle"
       ],
@@ -5291,7 +5291,7 @@ SETDEX_SV = {
         "Trick",
         "Frustration",
         "Thunder Wave",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Jolly",
       "item": "Choice Band"
@@ -5873,7 +5873,7 @@ SETDEX_SV = {
         "Mud Shot",
         "Water Gun",
         "Rock Tomb",
-        "Mud Slap"
+        "Mud-Slap"
       ],
       "nature": "Hardy",
       "item": "Focus Band"
@@ -5886,7 +5886,7 @@ SETDEX_SV = {
       "moves": [
         "Muddy Water",
         "Earthquake",
-        "Mud Slap",
+        "Mud-Slap",
         "Protect"
       ],
       "nature": "Docile",
@@ -6454,7 +6454,7 @@ SETDEX_SV = {
       "moves": [
         "Flamethrower",
         "Aerial Ace",
-        "Mud Slap",
+        "Mud-Slap",
         "Roar"
       ],
       "nature": "Docile",
@@ -6822,7 +6822,7 @@ SETDEX_SV = {
       "moves": [
         "Double Kick",
         "Water Pulse",
-        "Mud Slap",
+        "Mud-Slap",
         "Flatter"
       ],
       "nature": "Quirky",
@@ -6911,7 +6911,7 @@ SETDEX_SV = {
       },
       "moves": [
         "Slash",
-        "X Scissor",
+        "X-Scissor",
         "Swords Dance",
         "Baton Pass"
       ],
@@ -7006,7 +7006,7 @@ SETDEX_SV = {
         "Octazooka",
         "Fire Blast",
         "Thunder Wave",
-        "Mud Slap"
+        "Mud-Slap"
       ],
       "nature": "Quirky",
       "item": "Lax Incense"
@@ -7194,7 +7194,7 @@ SETDEX_SV = {
       "moves": [
         "Aerial Ace",
         "Feather Dance",
-        "Mud Slap",
+        "Mud-Slap",
         "Feint Attack"
       ],
       "nature": "Hardy",
@@ -7209,7 +7209,7 @@ SETDEX_SV = {
         "Return",
         "Aerial Ace",
         "Steel Wing",
-        "Mud Slap"
+        "Mud-Slap"
       ],
       "nature": "Adamant",
       "item": "Scope Lens"
@@ -7225,7 +7225,7 @@ SETDEX_SV = {
         "Aerial Ace",
         "Quick Attack",
         "Feather Dance",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Quirky",
       "item": "White Herb"
@@ -7344,7 +7344,7 @@ SETDEX_SV = {
       "moves": [
         "Surf",
         "Psychic",
-        "Mud Slap",
+        "Mud-Slap",
         "Swagger"
       ],
       "nature": "Modest",
@@ -7587,7 +7587,7 @@ SETDEX_SV = {
         "Earthquake",
         "Brick Break",
         "Counter",
-        "Mud Slap"
+        "Mud-Slap"
       ],
       "nature": "Adamant",
       "item": "Focus Band"
@@ -9435,7 +9435,7 @@ SETDEX_SV = {
         "Extrasensory",
         "Confuse Ray",
         "Stomp",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Gentle",
       "item": "Twisted Spoon"
@@ -9669,7 +9669,7 @@ SETDEX_SV = {
         "Mega Kick",
         "Earthquake",
         "Low Kick",
-        "Selfdestruct"
+        "Self-Destruct"
       ],
       "nature": "Hardy",
       "item": "Focus Band"
@@ -11097,7 +11097,7 @@ SETDEX_SV = {
       "moves": [
         "Water Pulse",
         "Bite",
-        "Mud Slap",
+        "Mud-Slap",
         "Yawn"
       ],
       "nature": "Docile",

@@ -3081,7 +3081,7 @@ SETDEX_PHGSS = {
         "Fire Punch",
         "Double Kick",
         "Quick Attack",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Adamant",
       "item": "Liechi Berry"
@@ -3095,7 +3095,7 @@ SETDEX_PHGSS = {
         "Flamethrower",
         "Sky Uppercut",
         "Slash",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Hardy",
       "item": "Scope Lens",
@@ -5509,7 +5509,7 @@ SETDEX_PHGSS = {
         "Fire Fang",
         "Flail",
         "Endure",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Jolly",
       "item": "Salac Berry",
@@ -5924,7 +5924,7 @@ SETDEX_PHGSS = {
         "Dragon Rage",
         "Sand Tomb",
         "Slash",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Adamant",
       "item": "Yache Berry"
@@ -11626,7 +11626,7 @@ SETDEX_PHGSS = {
       "moves": [
         "Crunch",
         "Frustration",
-        "Sand-Attack",
+        "Sand Attack",
         "Swagger"
       ],
       "nature": "Jolly",
@@ -12723,7 +12723,7 @@ SETDEX_PHGSS = {
       "moves": [
         "Bug Bite",
         "Aerial Ace",
-        "Sand-Attack",
+        "Sand Attack",
         "Baton Pass"
       ],
       "nature": "Adamant",
@@ -13279,7 +13279,7 @@ SETDEX_PHGSS = {
         "Wing Attack",
         "Facade",
         "Tailwind",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Adamant",
       "item": "Cheri Berry"
@@ -13337,7 +13337,7 @@ SETDEX_PHGSS = {
       },
       "moves": [
         "Quick Attack",
-        "Sand-Attack",
+        "Sand Attack",
         "Double Team",
         "Aerial Ace"
       ],
@@ -15658,7 +15658,7 @@ SETDEX_PHGSS = {
         "Dig",
         "Rock Tomb",
         "Sandstorm",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Adamant",
       "item": "Soft Sand"
@@ -16196,7 +16196,7 @@ SETDEX_PHGSS = {
         "Shadow Sneak",
         "Fury Cutter",
         "Confuse Ray",
-        "Sand-Attack"
+        "Sand Attack"
       ],
       "nature": "Adamant",
       "item": "Lax Incense"
