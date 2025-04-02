@@ -58,10 +58,10 @@ title: Battle Facilities Calculator
 	<div class="panel poke-info" id="p1">
 		<div class="panel-heading">
 			<h4 class="panel-title">Pokémon 1
-				<div class="autoivs calc-trigger gen-specific g3 g4" id="autoivsL">
+				<div class="autoivs calc-trigger gen-specific g3 g4 g9" id="autoivsL">
 					IVs:
 					<input class="autoivs-box gen-specific g4" id="autoivs-box" style="width:2.5em" value=31 />
-					<select class="autoivs-select gen-specific g3" id="autoivs-select"></select>
+					<select class="autoivs-select gen-specific g3 g9" id="autoivs-select"></select>
 				</div>
 			</h4>
 		</div>
@@ -364,11 +364,11 @@ title: Battle Facilities Calculator
 					</select>
 					<input class="max calc-trigger btn-input" type="checkbox" id="maxL" /><label class="btn btn-wide gen-specific g8" for="maxL" style="width: 6.3em" title="Dynamax this Pokémon?">Dynamax <img src="../_images/dmax.png" style="vertical-align: middle"></label>
 				</div>
-				<div class="gen-specific g9">
+				<!-- <div class="gen-specific g9">
                         <label>Tera Type</label>
                         <select class="tera-type terrain-trigger calc-trigger"></select>
                         <input class="tera calc-trigger btn-input" type="checkbox" id="teraL" /><label class="btn btn-wide gen-specific g9" for="teraL" style="width: 7em" title="Terastallize this Pokémon?">Terastallize <img src="../_images/tera.png" style="vertical-align: middle"></label>
-                    </div>
+                    </div> -->
 			</div>
 			<div class="move1">
 				<select class="move-selector calc-trigger small-select"></select>
@@ -440,7 +440,7 @@ title: Battle Facilities Calculator
 				<div class="autoivs calc-trigger gen-specific g5 g6 g7" id="autoivs-center">
 					AI IVs:
 					<input class="autoivs-box gen-specific g4" id="autoivs-box" style="width:2.5em" value=31 />
-					<select class="gen-specific g3 g5 g6 g7" id="autoivs-select"></select>
+					<select class="gen-specific g3 g5 g6 g7 g9" id="autoivs-select"></select>
 				</div>
 			</h4>
 		</div>
@@ -525,7 +525,7 @@ title: Battle Facilities Calculator
 					<input class="btn-input calc-trigger" type="checkbox" id="lightScreenR" /><label class="btn btn-xwide btn-right" for="lightScreenR">Light Screen</label>
 				</div>
 			</div>
-			<div class="btn-group gen-specific g9">
+			<!-- <div class="btn-group gen-specific g9">
 				<div class="left" title="Does this Pokemon have a Ruin ability?">
 					<input class="btn-input calc-trigger" type="checkbox" id="ruinTabletsL" /><label class="btn btn-mid" style="border-top-left-radius:8px;width:6.5em" for="ruinTabletsL">Tablets (-Atk)</label>
 					<input class="btn-input calc-trigger" type="checkbox" id="ruinVesselL" /><label class="btn btn-mid" style="border-top-right-radius:8px;width:6.5em" for="ruinVesselL">Vessel (-SpA)</label>
@@ -534,8 +534,8 @@ title: Battle Facilities Calculator
 					<input class="btn-input calc-trigger" type="checkbox" id="ruinTabletsR" /><label class="btn btn-mid" style="border-top-left-radius:8px;width:6.5em" for="ruinTabletsR">Tablets (-Atk)</label>
 					<input class="btn-input calc-trigger" type="checkbox" id="ruinVesselR" /><label class="btn btn-mid" style="border-top-right-radius:8px;width:6.5em" for="ruinVesselR">Vessel (-SpA)</label>
 				</div>
-			</div>
-			<div class="btn-group gen-specific g9">
+			</div> -->
+			<!-- <div class="btn-group gen-specific g9">
 				<div class="left" title="Does this Pokemon have a Ruin ability?">
 					<input class="btn-input calc-trigger" type="checkbox" id="ruinSwordL" /><label class="btn btn-mid" style="border-bottom-left-radius:8px;width:6.5em" for="ruinSwordL">Sword (-Def)</label>
 					<input class="btn-input calc-trigger" type="checkbox" id="ruinBeadsL" /><label class="btn btn-mid" style="border-bottom-right-radius:8px;width:6.5em" for="ruinBeadsL">Beads (-SpD)</label>
@@ -544,7 +544,7 @@ title: Battle Facilities Calculator
 					<input class="btn-input calc-trigger" type="checkbox" id="ruinSwordR" /><label class="btn btn-mid" style="border-bottom-left-radius:8px;width:6.5em" for="ruinSwordR">Sword (-Def)</label>
 					<input class="btn-input calc-trigger" type="checkbox" id="ruinBeadsR" /><label class="btn btn-mid" style="border-bottom-right-radius:8px;width:6.5em" for="ruinBeadsR">Beads (-SpD)</label>
 				</div>
-			</div>
+			</div> -->
 			<div class="btn-group">
 				<div class="left" title="Has this Pokemon been affected by Leech Seed?">
 					<input class="btn-input calc-trigger" type="checkbox" id="leechSeedL" /><label class="btn btn-wide" for="leechSeedL">Leech Seed</label>
@@ -634,23 +634,23 @@ title: Battle Facilities Calculator
 					<input class="btn-input calc-trigger" type="checkbox" id="clangR" /><label class="btn btn-xxwide" for="clangR"><img src="../_images/PZ.png"><img src="../_images/kommo.png"><br>+1 All</label>
 				</div>
 			</div>
-            <div class="btn-group gen-specific g8 g9">
+            <!-- <div class="btn-group gen-specific g8 g9">
                 <div class="left" title="Is this Pokemon boosted by an ally's Power Spot?">
                     <input class="btn-input calc-trigger" type="checkbox" id="powerSpotL" /><label class="btn btn-xxwide" for="powerSpotL">Power Spot</label>
                 </div>
                 <div class="right" title="Is this Pokemon boosted by an ally's Power Spot?">
                     <input class="btn-input calc-trigger" type="checkbox" id="powerSpotR" /><label class="btn btn-xxwide" for="powerSpotR">Power Spot</label>
                 </div>
-            </div>
-			<div class="btn-group gen-specific g8 g9">
+            </div> -->
+			<!-- <div class="btn-group gen-specific g8 g9">
 				<div class="left" title="Has this Pokemon had its Weakness Policy activated?">
 					<input class="btn-input calc-trigger" type="checkbox" id="wpL" /><label class="btn btn-xxwide" for="wpL"><img src="../_images/wp.png"><br>Weakness Policy</label>
 				</div>
 				<div class="right" title="Has this Pokemon had its Weakness Policy activated?">
 					<input class="btn-input calc-trigger" type="checkbox" id="wpR" /><label class="btn btn-xxwide" for="wpR"><img src="../_images/wp.png"><br>Weakness Policy</label>
 				</div>
-			</div>
-			<div class="btn-group gen-specific g7 g9">
+			</div> -->
+			<!-- <div class="btn-group gen-specific g7 g9">
 				<div class="left" title="Has this Pokemon had all its stats sharply raised? (gen 9 sprites by @ezerart_/Ezerart)">
 					<input class="btn-input calc-trigger" type="checkbox" id="evoL" /><label class="btn btn-xxwide" for="evoL"><img class="evo_img1" src="../_images/eevee.png"><img class="evo_img2" src="../_images/eevium.png"><br>+2 All</label>
 				</div>
@@ -665,8 +665,8 @@ title: Battle Facilities Calculator
 				<div class="right" title="Has this Pokemon's move been boosted by Steely Spirit?">
 					<input class="btn-input calc-trigger" type="checkbox" id="steelySpiritR" /><label class="btn btn-xxwide" for="steelySpiritR">Steely Spirit</label>
 				</div>
-			</div>
-			<div class="gen-specific g9">
+			</div> -->
+			<!-- <div class="gen-specific g9">
 				<div class="left" title="How many Pokemon in the party are fainted?">
                     <select class="calc-trigger" id="faintedL">
                         <option value=0 selected="selected">0</option>
@@ -690,7 +690,7 @@ title: Battle Facilities Calculator
                     <label for="faintedR">Party Fainted</label>
 				</div>
 				<div>&nbsp;</div>
-			</div>
+			</div> -->
 			<div>&nbsp;</div>
 			<div class="btn-group">
 				<button class="left" type="button" id="exportL" onclick="exportToPsFormat($('#p1'))">Export Set</button>
@@ -716,10 +716,10 @@ title: Battle Facilities Calculator
 	<div class="panel poke-info" id="p2">
 		<div class="panel-heading">
 			<h4 class="panel-title">Pokémon 2
-				<div class="autoivs calc-trigger gen-specific g3 g4" id="autoivsR">
+				<div class="autoivs calc-trigger gen-specific g3 g4 g9" id="autoivsR">
 					IVs:
 					<input class="autoivs-box gen-specific g4" id="autoivs-box" style="width:2.5em" value=31 />
-					<select class="autoivs-select gen-specific g3" id="autoivs-select"></select>
+					<select class="autoivs-select gen-specific g3 g9" id="autoivs-select"></select>
 				</div>
 			</h4>
 		</div>
@@ -1022,11 +1022,11 @@ title: Battle Facilities Calculator
 					</select>
 					<input class="max calc-trigger btn-input" type="checkbox" id="maxR" /><label class="btn btn-wide gen-specific g8" style="width: 6.3em" for="maxR" title="Dynamax this Pokémon?">Dynamax <img src="../_images/dmax.png" style="vertical-align: middle"></label>
 				</div>
-				<div class="gen-specific g9">
+				<!-- <div class="gen-specific g9">
                     <label>Tera Type</label>
                     <select class="tera-type terrain-trigger calc-trigger"></select>
                     <input class="tera calc-trigger btn-input" type="checkbox" id="teraR" /><label class="btn btn-wide gen-specific g9" for="teraR" style="width: 7em" title="Terastallize this Pokémon?">Terastallize <img src="../_images/tera.png" style="vertical-align: middle"></label>
-                </div>
+                </div> -->
 			</div>
 			<div class="move1">
 				<select class="move-selector calc-trigger small-select"></select>
@@ -1094,6 +1094,7 @@ title: Battle Facilities Calculator
 <script type="text/javascript" src="../_scripts/game_data/setdex_gen7_sets.js"></script>
 <script type="text/javascript" src="../_scripts/game_data/setdex_gen8_sets.js"></script>
 <script type="text/javascript" src="../_scripts/game_data/setdex_gen80_sets.js"></script>
+<script type="text/javascript" src="../_scripts/game_data/setdex_gen9_sets.js"></script>
 <script type="text/javascript" src="../_scripts/game_data/stat_data.js"></script>
 <script type="text/javascript" src="../_scripts/game_data/type_data.js"></script>
 <script type="text/javascript" src="../_scripts/game_data/nature_data.js"></script>

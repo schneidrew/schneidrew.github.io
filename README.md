@@ -60,7 +60,7 @@ We use travis-ci to maintain code standards. Please ensure your code passes our 
 
 ## Handy Links:
 
-* [Calc](https://to-metrion.github.io)
+* [Calc](https://schneidrew.github.io)
 * [BSS Calc](https://cantsay.github.io/sumo-bss-calc/)
 * [Parser (PS! Importable to calc format)](https://legofigure11.github.io/custom-calc-parser/)
 * [VGC Calc](https://jake-white.github.io/VGC-Damage-Calculator/) ([git](https://github.com/jake-white/VGC-Damage-Calculator))

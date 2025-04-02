@@ -174,7 +174,7 @@ $("#autoivs-center").change(function () {
 });
 
 $("#autoivsL").change(function () {
-	if (gen != 3 && gen != 4) {
+	if (gen != 3 && gen != 4 && gen != 9) {
 		return;
 	}
 	setIVSelectors($("#p1"), "L");
@@ -203,6 +203,8 @@ function getAutoIVValue(side) {
 		autoIVs = parseInt($("#autoivs" + side + " #autoivs-box").val());
 	} else if (gen <= 7) {
 		autoIVs = parseInt($('#autoivs-center #autoivs-select').find(":selected").val());
+	} else if (gen == 9) {
+		autoIVs = parseInt($("#autoivs" + side + " #autoivs-select").find(":selected").val());
 	}
 	if (isNaN(autoIVs)) {
 		return 31;
@@ -1665,7 +1667,7 @@ function DamageInfo(result, moveHits, isFirstHit = false) {
 
 // please add the new setdex to this function whenever adding a new gen
 function isFacilitySet(speciesName, setName) {
-	let setdexMaps = [SETDEX_EM, SETDEX_PHGSS, SETDEX_GEN5, SETDEX_GEN6, SETDEX_GEN7, SETDEX_GEN8, SETDEX_GEN80];
+	let setdexMaps = [SETDEX_EM, SETDEX_PHGSS, SETDEX_GEN5, SETDEX_GEN6, SETDEX_GEN7, SETDEX_GEN8, SETDEX_GEN80, SETDEX_SV];
 	for (let setdexMap of setdexMaps) {
 		let speciesSets = setdexMap[speciesName];
 		if (speciesSets && (setName in speciesSets)) {
@@ -1765,18 +1767,19 @@ $(".gen").change(function () {
 		forumLink = "https://www.smogon.com/forums/threads/bdsp-battle-tower-discussion-records.3693739/";
 		break;
 	case 9:
-		$(".evo_img1").attr("src", "_images/dozo.png");
-		$(".evo_img2").attr("src", "_images/giri.png");
+		// $(".evo_img1").attr("src", "_images/dozo.png");
+		// $(".evo_img2").attr("src", "_images/giri.png");
 		pokedex = POKEDEX_SV;
-		setdex = {};
+		setdex = SETDEX_SV;
 		typeChart = TYPE_CHART_XY;
 		moves = MOVES_SV;
 		items = ITEMS_SV;
 		abilities = ABILITIES_SV;
 		calculateAllMoves = CALCULATE_ALL_MOVES_MODERN;
 		forumLink = "https://www.smogon.com/forums/forums/battle-facilities.697/";
-		$("#startGimmick-label").text("Start Terastallized");
-		$("#startGimmick-label").prop("title", "This custom set starts Terastallized when loaded");
+		$(".autoivs-select").find("option").remove().end().append(getSelectOptions(IVS_GEN3));
+		// $("#startGimmick-label").text("Start Terastallized");
+		// $("#startGimmick-label").prop("title", "This custom set starts Terastallized when loaded");
 	}
 	localStorage.setItem("selectedGen", gen);
 	$("#autolevel-title").text((gen == 4 ? "AI " : "") + "Auto-Level to:");
