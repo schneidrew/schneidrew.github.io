@@ -3818,7 +3818,7 @@ var SETDEX_GEN7 =
         "sp": 252
       },
       "moves": [
-        "Sand Attack",
+        "Sand-Attack",
         "Pursuit",
         "Tri Attack",
         "Dig"
@@ -7921,7 +7921,7 @@ var SETDEX_GEN7 =
         "sd": 252
       },
       "moves": [
-        "Sand Attack",
+        "Sand-Attack",
         "Foul Play",
         "Swagger",
         "Play Rough"
@@ -7938,7 +7938,7 @@ var SETDEX_GEN7 =
       "moves": [
         "Foul Play",
         "Sucker Punch",
-        "Sand Attack",
+        "Sand-Attack",
         "Thunder Wave"
       ],
       "nature": "Bold",
@@ -10401,7 +10401,7 @@ var SETDEX_GEN7 =
       "moves": [
         "Mirror Move",
         "Twister",
-        "Sand Attack",
+        "Sand-Attack",
         "Double Team"
       ],
       "nature": "Quiet",
@@ -12142,7 +12142,7 @@ var SETDEX_GEN7 =
         "Dig",
         "Poison Jab",
         "Swagger",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Impish",
       "item": "Quick Claw"

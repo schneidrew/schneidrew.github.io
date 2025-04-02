@@ -468,7 +468,7 @@ var SETDEX_GEN80 = {
       },
       "moves": [
         "Fury Swipes",
-        "Sand Attack",
+        "Sand-Attack",
         "Baton Pass",
         "Agility"
       ],
@@ -2587,7 +2587,7 @@ var SETDEX_GEN80 = {
         "Pin Missile",
         "Payback",
         "Cotton Spore",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Adamant",
       "ability": "Water Absorb",
@@ -3502,7 +3502,7 @@ var SETDEX_GEN80 = {
         "Ember",
         "Double Kick",
         "Quick Attack",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Docile",
       "ability": "Blaze",
@@ -4937,7 +4937,7 @@ var SETDEX_GEN80 = {
       "moves": [
         "Swagger",
         "Attract",
-        "Sand Attack",
+        "Sand-Attack",
         "Sucker Punch"
       ],
       "nature": "Careful",
@@ -6523,7 +6523,7 @@ var SETDEX_GEN80 = {
       "moves": [
         "Dragon Claw",
         "Take Down",
-        "Sand Attack",
+        "Sand-Attack",
         "Roar"
       ],
       "nature": "Hardy",
@@ -7361,7 +7361,7 @@ var SETDEX_GEN80 = {
         "Dragon Claw",
         "Dig",
         "Sand Tomb",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Brave",
       "ability": "Rough Skin",
@@ -7408,7 +7408,7 @@ var SETDEX_GEN80 = {
       "moves": [
         "Mirror Coat",
         "Tail Whip",
-        "Sand Attack",
+        "Sand-Attack",
         "Last Resort"
       ],
       "nature": "Modest",
@@ -8265,7 +8265,7 @@ var SETDEX_GEN80 = {
         "sd": 15
       },
       "moves": [
-        "Sand Attack",
+        "Sand-Attack",
         "Focus Punch",
         "Rock Tomb",
         "Fake Out"
@@ -8726,7 +8726,7 @@ var SETDEX_GEN80 = {
       },
       "moves": [
         "Bite",
-        "Sand Attack",
+        "Sand-Attack",
         "Sand Tomb",
         "Yawn"
       ],
@@ -9615,7 +9615,7 @@ var SETDEX_GEN80 = {
       "moves": [
         "Mega Drain",
         "Ancient Power",
-        "Sand Attack",
+        "Sand-Attack",
         "Protect"
       ],
       "nature": "Hardy",
@@ -10712,7 +10712,7 @@ var SETDEX_GEN80 = {
       },
       "moves": [
         "Extreme Speed",
-        "Sand Attack",
+        "Sand-Attack",
         "Covet",
         "Tickle"
       ],
@@ -14215,7 +14215,7 @@ var SETDEX_GEN80 = {
         "Aerial Ace",
         "Quick Attack",
         "Feather Dance",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Adamant",
       "ability": "Big Pecks",
@@ -17119,7 +17119,7 @@ var SETDEX_GEN80 = {
         "Dig",
         "Rock Tomb",
         "Sandstorm",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Adamant",
       "ability": "Sand Rush",
@@ -17635,7 +17635,7 @@ var SETDEX_GEN80 = {
         "Shadow Sneak",
         "Confuse Ray",
         "X-Scissor",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Adamant",
       "ability": "Wonder Guard",
@@ -18019,7 +18019,7 @@ var SETDEX_GEN80 = {
         "Drill Peck",
         "Metal Sound",
         "Double Team",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Jolly",
       "ability": "Sturdy",
@@ -18832,7 +18832,7 @@ var SETDEX_GEN80 = {
         "Extrasensory",
         "Confuse Ray",
         "Stomp",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Gentle",
       "ability": "Intimidate",
@@ -20112,7 +20112,7 @@ var SETDEX_GEN80 = {
       "moves": [
         "Flame Charge",
         "Quick Attack",
-        "Sand Attack",
+        "Sand-Attack",
         "Double Team"
       ],
       "nature": "Adamant",

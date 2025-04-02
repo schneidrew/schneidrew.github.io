@@ -516,7 +516,7 @@ var MOVES_RBY = {
 		"bp": 0,
 		"type": "Normal"
 	},
-	"Sand Attack": {
+	"Sand-Attack": {
 		"bp": 0,
 		"type": "Ground"
 	},

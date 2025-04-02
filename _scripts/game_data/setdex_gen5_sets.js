@@ -13071,7 +13071,7 @@ var SETDEX_GEN5 =
         "Super Fang",
         "Crunch",
         "Hypnosis",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Jolly",
       "item": "Cheri Berry"
@@ -14350,7 +14350,7 @@ var SETDEX_GEN5 =
         "Bug Bite",
         "Smack Down",
         "Double Team",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Impish",
       "item": "Ring Target"
@@ -14506,7 +14506,7 @@ var SETDEX_GEN5 =
       "moves": [
         "Double Kick",
         "Feint Attack",
-        "Sand Attack",
+        "Sand-Attack",
         "Leech Seed"
       ],
       "nature": "Adamant",
@@ -14698,7 +14698,7 @@ var SETDEX_GEN5 =
       "moves": [
         "Bulldoze",
         "Crunch",
-        "Sand Attack",
+        "Sand-Attack",
         "Torment"
       ],
       "nature": "Jolly",
@@ -15050,7 +15050,7 @@ var SETDEX_GEN5 =
       "moves": [
         "Smack Down",
         "Headbutt",
-        "Sand Attack",
+        "Sand-Attack",
         "Iron Defense"
       ],
       "nature": "Adamant",

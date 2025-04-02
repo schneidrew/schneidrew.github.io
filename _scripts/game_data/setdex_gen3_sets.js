@@ -329,7 +329,7 @@ SETDEX_EM = {
         "Crunch",
         "Swagger",
         "Roar",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Relaxed",
       "item": "Petaya Berry"
@@ -417,7 +417,7 @@ SETDEX_EM = {
         "Headbutt",
         "Pin Missile",
         "Swift",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Timid",
       "item": "Silk Scarf"
@@ -560,7 +560,7 @@ SETDEX_EM = {
       },
       "moves": [
         "Gust",
-        "Sand Attack",
+        "Sand-Attack",
         "Whirlwind",
         "Quick Attack"
       ],
@@ -658,7 +658,7 @@ SETDEX_EM = {
         "Magnitude",
         "Slash",
         "Rock Tomb",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Naive",
       "item": "King's Rock"
@@ -964,7 +964,7 @@ SETDEX_EM = {
         "Toxic",
         "Dig",
         "Sandstorm",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Serious",
       "item": "Lax Incense"
@@ -1108,7 +1108,7 @@ SETDEX_EM = {
         "Dig",
         "Rock Tomb",
         "Sandstorm",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Docile",
       "item": "Soft Sand"
@@ -1557,7 +1557,7 @@ SETDEX_EM = {
       "moves": [
         "Fire Spin",
         "Quick Attack",
-        "Sand Attack",
+        "Sand-Attack",
         "Double Team"
       ],
       "nature": "Lonely",
@@ -2041,7 +2041,7 @@ SETDEX_EM = {
         "Needle Arm",
         "Feint Attack",
         "Cotton Spore",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Quirky",
       "item": "Sitrus Berry"
@@ -2203,7 +2203,7 @@ SETDEX_EM = {
         "Aerial Ace",
         "Quick Attack",
         "Feather Dance",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Quirky",
       "item": "White Herb"
@@ -2268,7 +2268,7 @@ SETDEX_EM = {
       "moves": [
         "Mega Drain",
         "Ancient Power",
-        "Sand Attack",
+        "Sand-Attack",
         "Protect"
       ],
       "nature": "Hardy",
@@ -2315,7 +2315,7 @@ SETDEX_EM = {
       },
       "moves": [
         "Fury Swipes",
-        "Sand Attack",
+        "Sand-Attack",
         "Baton Pass",
         "Agility"
       ],
@@ -3463,7 +3463,7 @@ SETDEX_EM = {
         "Ember",
         "Double Kick",
         "Quick Attack",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Docile",
       "item": "Scope Lens"
@@ -3478,7 +3478,7 @@ SETDEX_EM = {
         "Flamethrower",
         "Sky Uppercut",
         "Slash",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Docile",
       "item": "Scope Lens"
@@ -3886,7 +3886,7 @@ SETDEX_EM = {
       },
       "moves": [
         "Secret Power",
-        "Sand Attack",
+        "Sand-Attack",
         "Covet",
         "Tickle"
       ],
@@ -3902,7 +3902,7 @@ SETDEX_EM = {
         "Trick",
         "Frustration",
         "Thunder Wave",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Jolly",
       "item": "Choice Band"
@@ -5276,7 +5276,7 @@ SETDEX_EM = {
         "Extrasensory",
         "Confuse Ray",
         "Stomp",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Gentle",
       "item": "Twisted Spoon"
@@ -10901,7 +10901,7 @@ SETDEX_EM = {
         "Flamethrower",
         "Roar",
         "Bite",
-        "Sand Attack"
+        "Sand-Attack"
       ],
       "nature": "Modest",
       "item": "Sitrus Berry",
