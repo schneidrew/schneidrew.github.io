@@ -18351,7 +18351,7 @@ $.extend(true, POKEDEX_SM, POKEDEX_SM_FORMES, POKEDEX_MEGAS, POKEDEX_PRIMALS, fl
 
 $.extend(true, POKEDEX_SS, POKEDEX_SS_FORMES);
 
-$.extend(true, POKEDEX_SV, terapagosStellar);
+$.extend(true, POKEDEX_SV, terapagosStellar, POKEDEX_MEGAS);
 
 // Remove Non-Galarian mons
 delete POKEDEX_SS["Arbok"];
