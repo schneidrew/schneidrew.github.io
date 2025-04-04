@@ -45,7 +45,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Kings Rock"
     },
-    "Aerodactyl-2 (379)": {
+    "Aerodactyl-2 (378)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -60,7 +60,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Choice Band"
     },
-    "Aerodactyl-3 (496)": {
+    "Aerodactyl-3 (494)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -74,7 +74,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Kings Rock"
     },
-    "Aerodactyl-4 (613)": {
+    "Aerodactyl-4 (610)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -104,7 +104,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Aggron-2 (380)": {
+    "Aggron-2 (379)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -118,7 +118,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Aggron-3 (497)": {
+    "Aggron-3 (495)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -132,7 +132,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Aggron-4 (614)": {
+    "Aggron-4 (611)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -178,7 +178,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Focus Band"
     },
-    "Alakazam-2 (381)": {
+    "Alakazam-2 (380)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -192,7 +192,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Alakazam-3 (498)": {
+    "Alakazam-3 (496)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -206,7 +206,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Choice Band"
     },
-    "Alakazam-4 (615)": {
+    "Alakazam-4 (612)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -236,7 +236,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Cheri Berry"
     },
-    "Altaria-2 (382)": {
+    "Altaria-2 (381)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -251,7 +251,7 @@ SETDEX_SV = {
       "nature": "Relaxed",
       "item": "Leftovers"
     },
-    "Altaria-3 (499)": {
+    "Altaria-3 (497)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -265,7 +265,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Altaria-4 (616)": {
+    "Altaria-4 (613)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -295,7 +295,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Silk Scarf"
     },
-    "Ambipom-2 (383)": {
+    "Ambipom-2 (382)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -310,7 +310,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Light Ball"
     },
-    "Ambipom-3 (500)": {
+    "Ambipom-3 (498)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -324,7 +324,7 @@ SETDEX_SV = {
       "nature": "Timid",
       "item": "Choice Specs"
     },
-    "Ambipom-4 (617)": {
+    "Ambipom-4 (614)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -354,7 +354,7 @@ SETDEX_SV = {
       "nature": "Relaxed",
       "item": "Magnet"
     },
-    "Ampharos-2 (384)": {
+    "Ampharos-2 (383)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -368,7 +368,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Ampharos-3 (501)": {
+    "Ampharos-3 (499)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -382,7 +382,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Focus Band"
     },
-    "Ampharos-4 (618)": {
+    "Ampharos-4 (615)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -458,7 +458,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Kings Rock"
     },
-    "Arcanine-2 (385)": {
+    "Arcanine-2 (384)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -472,7 +472,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Lum Berry"
     },
-    "Arcanine-3 (502)": {
+    "Arcanine-3 (500)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -486,7 +486,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "White Herb"
     },
-    "Arcanine-4 (619)": {
+    "Arcanine-4 (616)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -533,7 +533,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Armaldo-2 (386)": {
+    "Armaldo-2 (385)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -547,7 +547,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Armaldo-3 (503)": {
+    "Armaldo-3 (501)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -561,7 +561,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Armaldo-4 (620)": {
+    "Armaldo-4 (617)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -593,7 +593,7 @@ SETDEX_SV = {
     }
   },
   "Articuno": {
-    "Articuno-1 (730)": {
+    "Articuno-1 (726)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -607,7 +607,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Articuno-2 (731)": {
+    "Articuno-2 (727)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -622,7 +622,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Leftovers"
     },
-    "Articuno-3 (732)": {
+    "Articuno-3 (728)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -636,7 +636,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Bright Powder"
     },
-    "Articuno-4 (733)": {
+    "Articuno-4 (729)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -651,7 +651,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Chesto Berry"
     },
-    "Articuno-5 (824)": {
+    "Articuno-5 (816)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -665,7 +665,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Focus Band"
     },
-    "Articuno-6 (825)": {
+    "Articuno-6 (817)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -849,7 +849,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Blastoise-2 (387)": {
+    "Blastoise-2 (386)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -864,7 +864,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Shell Bell"
     },
-    "Blastoise-3 (504)": {
+    "Blastoise-3 (502)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -879,7 +879,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Focus Band"
     },
-    "Blastoise-4 (621)": {
+    "Blastoise-4 (618)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -910,7 +910,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Quick Claw"
     },
-    "Blaziken-2 (388)": {
+    "Blaziken-2 (387)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -924,7 +924,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Blaziken-3 (505)": {
+    "Blaziken-3 (503)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -938,7 +938,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Salac Berry"
     },
-    "Blaziken-4 (622)": {
+    "Blaziken-4 (619)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -968,7 +968,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Bright Powder"
     },
-    "Blissey-2 (389)": {
+    "Blissey-2 (388)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -982,7 +982,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Leftovers"
     },
-    "Blissey-3 (506)": {
+    "Blissey-3 (504)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -996,7 +996,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Focus Band"
     },
-    "Blissey-4 (623)": {
+    "Blissey-4 (620)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -1026,7 +1026,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Kings Rock"
     },
-    "Breloom-2 (390)": {
+    "Breloom-2 (389)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -1040,7 +1040,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Breloom-3 (507)": {
+    "Breloom-3 (505)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -1054,7 +1054,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Leftovers"
     },
-    "Breloom-4 (624)": {
+    "Breloom-4 (621)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -1236,7 +1236,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Focus Band"
     },
-    "Charizard-2 (391)": {
+    "Charizard-2 (390)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -1250,7 +1250,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Charizard-3 (508)": {
+    "Charizard-3 (506)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -1264,7 +1264,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Charizard-4 (625)": {
+    "Charizard-4 (622)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -1389,7 +1389,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Claydol-2 (392)": {
+    "Claydol-2 (391)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -1404,7 +1404,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Leftovers"
     },
-    "Claydol-3 (509)": {
+    "Claydol-3 (507)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -1418,7 +1418,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Claydol-4 (626)": {
+    "Claydol-4 (623)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -1449,7 +1449,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Leftovers"
     },
-    "Clefable-2 (393)": {
+    "Clefable-2 (392)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -1463,7 +1463,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Clefable-3 (510)": {
+    "Clefable-3 (508)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -1477,7 +1477,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Clefable-4 (627)": {
+    "Clefable-4 (624)": {
       "evs": {
         "at": 170,
         "df": 170,
@@ -1587,7 +1587,7 @@ SETDEX_SV = {
       "nature": "Relaxed",
       "item": "Leftovers"
     },
-    "Cradily-2 (394)": {
+    "Cradily-2 (393)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -1601,7 +1601,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Sitrus Berry"
     },
-    "Cradily-3 (511)": {
+    "Cradily-3 (509)": {
       "evs": {
         "df": 170,
         "sa": 170,
@@ -1616,7 +1616,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Leftovers"
     },
-    "Cradily-4 (628)": {
+    "Cradily-4 (625)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -1679,7 +1679,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Kings Rock"
     },
-    "Crobat-2 (395)": {
+    "Crobat-2 (394)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -1694,7 +1694,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Leftovers"
     },
-    "Crobat-3 (512)": {
+    "Crobat-3 (510)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -1708,7 +1708,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Crobat-4 (629)": {
+    "Crobat-4 (626)": {
       "evs": {
         "hp": 170,
         "sa": 170,
@@ -1815,7 +1815,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Never Melt Ice"
     },
-    "Dewgong-2 (396)": {
+    "Dewgong-2 (395)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -1829,7 +1829,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Shell Bell"
     },
-    "Dewgong-3 (513)": {
+    "Dewgong-3 (511)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -1843,7 +1843,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Chesto Berry"
     },
-    "Dewgong-4 (630)": {
+    "Dewgong-4 (627)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -1873,7 +1873,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Dodrio-2 (397)": {
+    "Dodrio-2 (396)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -1887,7 +1887,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Kings Rock"
     },
-    "Dodrio-3 (514)": {
+    "Dodrio-3 (512)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -1901,7 +1901,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Dodrio-4 (631)": {
+    "Dodrio-4 (628)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -1931,7 +1931,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Donphan-2 (398)": {
+    "Donphan-2 (397)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -1945,7 +1945,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Quick Claw"
     },
-    "Donphan-3 (515)": {
+    "Donphan-3 (513)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -1959,7 +1959,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Donphan-4 (632)": {
+    "Donphan-4 (629)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -2005,7 +2005,7 @@ SETDEX_SV = {
     }
   },
   "Dragonite": {
-    "Dragonite-1 (829)": {
+    "Dragonite-1 (821)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -2020,7 +2020,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Dragonite-2 (830)": {
+    "Dragonite-2 (822)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -2035,7 +2035,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Dragonite-3 (831)": {
+    "Dragonite-3 (823)": {
       "evs": {
         "at": 170,
         "df": 170,
@@ -2050,7 +2050,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Leftovers"
     },
-    "Dragonite-4 (832)": {
+    "Dragonite-4 (824)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -2065,7 +2065,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Dragonite-5 (833)": {
+    "Dragonite-5 (825)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -2079,7 +2079,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Lum Berry"
     },
-    "Dragonite-6 (826)": {
+    "Dragonite-6 (818)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2093,7 +2093,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Dragonite-7 (827)": {
+    "Dragonite-7 (819)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2107,7 +2107,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Dragonite-8 (828)": {
+    "Dragonite-8 (820)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2121,7 +2121,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Dragonite-9 (834)": {
+    "Dragonite-9 (826)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -2135,7 +2135,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Quick Claw"
     },
-    "Dragonite-10 (835)": {
+    "Dragonite-10 (827)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -2182,7 +2182,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Scope Lens"
     },
-    "Dudunsparce-2 (399)": {
+    "Dudunsparce-2 (398)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -2196,7 +2196,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Lum Berry"
     },
-    "Dudunsparce-3 (516)": {
+    "Dudunsparce-3 (514)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2210,7 +2210,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Dudunsparce-4 (633)": {
+    "Dudunsparce-4 (630)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -2240,7 +2240,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Soft Sand"
     },
-    "Dugtrio-2 (400)": {
+    "Dugtrio-2 (399)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -2254,7 +2254,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Kings Rock"
     },
-    "Dugtrio-3 (517)": {
+    "Dugtrio-3 (515)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -2268,7 +2268,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Kings Rock"
     },
-    "Dugtrio-4 (634)": {
+    "Dugtrio-4 (631)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -2328,7 +2328,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Scope Lens"
     },
-    "Dusknoir-2 (401)": {
+    "Dusknoir-2 (400)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -2343,7 +2343,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Leftovers"
     },
-    "Dusknoir-3 (518)": {
+    "Dusknoir-3 (516)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -2357,7 +2357,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Choice Scarf"
     },
-    "Dusknoir-4 (635)": {
+    "Dusknoir-4 (632)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -2419,7 +2419,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Rawst Berry"
     },
-    "Electivire-2 (402)": {
+    "Electivire-2 (401)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2433,7 +2433,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Magnet"
     },
-    "Electivire-3 (519)": {
+    "Electivire-3 (517)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -2448,7 +2448,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Scope Lens"
     },
-    "Electivire-4 (636)": {
+    "Electivire-4 (633)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -2478,7 +2478,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Focus Band"
     },
-    "Electrode-2 (403)": {
+    "Electrode-2 (402)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -2493,7 +2493,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Electrode-3 (520)": {
+    "Electrode-3 (518)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -2507,7 +2507,7 @@ SETDEX_SV = {
       "nature": "Naughty",
       "item": "Liechi Berry"
     },
-    "Electrode-4 (637)": {
+    "Electrode-4 (634)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -2540,7 +2540,7 @@ SETDEX_SV = {
     }
   },
   "Entei": {
-    "Entei-1 (734)": {
+    "Entei-1 (730)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2554,7 +2554,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Chesto Berry"
     },
-    "Entei-2 (735)": {
+    "Entei-2 (731)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2568,7 +2568,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Entei-3 (736)": {
+    "Entei-3 (732)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -2582,7 +2582,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Lum Berry"
     },
-    "Entei-4 (737)": {
+    "Entei-4 (733)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2596,7 +2596,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Kings Rock"
     },
-    "Entei-5 (836)": {
+    "Entei-5 (828)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -2610,7 +2610,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Salac Berry"
     },
-    "Entei-6 (837)": {
+    "Entei-6 (829)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -2641,7 +2641,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Espeon-2 (404)": {
+    "Espeon-2 (403)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -2655,7 +2655,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Chesto Berry"
     },
-    "Espeon-3 (521)": {
+    "Espeon-3 (519)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2669,7 +2669,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Espeon-4 (638)": {
+    "Espeon-4 (635)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2715,7 +2715,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Quick Claw"
     },
-    "Exeggutor-2 (405)": {
+    "Exeggutor-2 (404)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -2729,7 +2729,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Chesto Berry"
     },
-    "Exeggutor-3 (522)": {
+    "Exeggutor-3 (520)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -2744,7 +2744,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Leftovers"
     },
-    "Exeggutor-4 (639)": {
+    "Exeggutor-4 (636)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -2774,7 +2774,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Chesto Berry"
     },
-    "Exploud-2 (406)": {
+    "Exploud-2 (405)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -2788,7 +2788,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Focus Band"
     },
-    "Exploud-3 (523)": {
+    "Exploud-3 (521)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2802,7 +2802,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "White Herb"
     },
-    "Exploud-4 (640)": {
+    "Exploud-4 (637)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -2849,7 +2849,7 @@ SETDEX_SV = {
       "nature": "Relaxed",
       "item": "Chesto Berry"
     },
-    "Farigiraf-2 (407)": {
+    "Farigiraf-2 (406)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -2863,7 +2863,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Scope Lens"
     },
-    "Farigiraf-3 (524)": {
+    "Farigiraf-3 (522)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -2877,7 +2877,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Sitrus Berry"
     },
-    "Farigiraf-4 (641)": {
+    "Farigiraf-4 (638)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -2907,7 +2907,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Sharp Beak"
     },
-    "Fearow-2 (408)": {
+    "Fearow-2 (407)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -2921,7 +2921,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Fearow-3 (525)": {
+    "Fearow-3 (523)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -2935,7 +2935,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Scope Lens"
     },
-    "Fearow-4 (642)": {
+    "Fearow-4 (639)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -2966,7 +2966,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Lum Berry"
     },
-    "Feraligatr-2 (409)": {
+    "Feraligatr-2 (408)": {
       "evs": {
         "hp": 170,
         "sa": 170,
@@ -2981,7 +2981,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Quick Claw"
     },
-    "Feraligatr-3 (526)": {
+    "Feraligatr-3 (524)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -2996,7 +2996,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Scope Lens"
     },
-    "Feraligatr-4 (643)": {
+    "Feraligatr-4 (640)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -3043,7 +3043,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Sitrus Berry"
     },
-    "Flareon-2 (410)": {
+    "Flareon-2 (409)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -3058,7 +3058,7 @@ SETDEX_SV = {
       "nature": "Relaxed",
       "item": "Quick Claw"
     },
-    "Flareon-3 (527)": {
+    "Flareon-3 (525)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -3072,7 +3072,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Quick Claw"
     },
-    "Flareon-4 (644)": {
+    "Flareon-4 (641)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -3102,7 +3102,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Flygon-2 (411)": {
+    "Flygon-2 (410)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3116,7 +3116,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Flygon-3 (528)": {
+    "Flygon-3 (526)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -3131,7 +3131,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Scope Lens"
     },
-    "Flygon-4 (645)": {
+    "Flygon-4 (642)": {
       "evs": {
         "at": 170,
         "sd": 170,
@@ -3162,7 +3162,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Forretress-2 (412)": {
+    "Forretress-2 (411)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -3176,7 +3176,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Forretress-3 (529)": {
+    "Forretress-3 (527)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -3191,7 +3191,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Focus Band"
     },
-    "Forretress-4 (646)": {
+    "Forretress-4 (643)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -3221,7 +3221,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Flame Orb"
     },
-    "Froslass-2 (413)": {
+    "Froslass-2 (412)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -3235,7 +3235,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Chesto Berry"
     },
-    "Froslass-3 (530)": {
+    "Froslass-3 (528)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -3249,7 +3249,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Never Melt Ice"
     },
-    "Froslass-4 (647)": {
+    "Froslass-4 (644)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -3309,7 +3309,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Gallade-2 (414)": {
+    "Gallade-2 (413)": {
       "evs": {
         "df": 255,
         "sp": 255
@@ -3323,7 +3323,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Choice Scarf"
     },
-    "Gallade-3 (531)": {
+    "Gallade-3 (529)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -3337,7 +3337,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Salac Berry"
     },
-    "Gallade-4 (648)": {
+    "Gallade-4 (645)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -3368,7 +3368,7 @@ SETDEX_SV = {
       "nature": "Timid",
       "item": "Leftovers"
     },
-    "Gardevoir-2 (415)": {
+    "Gardevoir-2 (414)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -3382,7 +3382,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Chesto Berry"
     },
-    "Gardevoir-3 (532)": {
+    "Gardevoir-3 (530)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3396,7 +3396,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Gardevoir-4 (649)": {
+    "Gardevoir-4 (646)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3410,7 +3410,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Gardevoir-5 (738)": {
+    "Gardevoir-5 (734)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -3425,7 +3425,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Salac Berry"
     },
-    "Gardevoir-6 (739)": {
+    "Gardevoir-6 (735)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -3439,7 +3439,7 @@ SETDEX_SV = {
       "nature": "Timid",
       "item": "Lum Berry"
     },
-    "Gardevoir-7 (740)": {
+    "Gardevoir-7 (736)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -3454,7 +3454,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Quick Claw"
     },
-    "Gardevoir-8 (741)": {
+    "Gardevoir-8 (737)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3485,7 +3485,7 @@ SETDEX_SV = {
       "nature": "Timid",
       "item": "Leftovers"
     },
-    "Gengar-2 (416)": {
+    "Gengar-2 (415)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -3499,7 +3499,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Leftovers"
     },
-    "Gengar-3 (533)": {
+    "Gengar-3 (531)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3513,7 +3513,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Quick Claw"
     },
-    "Gengar-4 (650)": {
+    "Gengar-4 (647)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -3527,7 +3527,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Gengar-5 (742)": {
+    "Gengar-5 (738)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3541,7 +3541,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Gengar-6 (743)": {
+    "Gengar-6 (739)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3555,7 +3555,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Gengar-7 (744)": {
+    "Gengar-7 (740)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3569,7 +3569,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Gengar-8 (745)": {
+    "Gengar-8 (741)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -3629,7 +3629,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Bright Powder"
     },
-    "Glaceon-2 (417)": {
+    "Glaceon-2 (416)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -3643,7 +3643,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Chesto Berry"
     },
-    "Glaceon-3 (534)": {
+    "Glaceon-3 (532)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -3657,7 +3657,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Quick Claw"
     },
-    "Glaceon-4 (651)": {
+    "Glaceon-4 (648)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -3687,7 +3687,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Petaya Berry"
     },
-    "Glalie-2 (418)": {
+    "Glalie-2 (417)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -3701,7 +3701,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Salac Berry"
     },
-    "Glalie-3 (535)": {
+    "Glalie-3 (533)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -3716,7 +3716,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Shell Bell"
     },
-    "Glalie-4 (652)": {
+    "Glalie-4 (649)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -3837,7 +3837,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Shell Bell"
     },
-    "Golduck-2 (419)": {
+    "Golduck-2 (418)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -3852,7 +3852,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Lum Berry"
     },
-    "Golduck-3 (536)": {
+    "Golduck-3 (534)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -3866,7 +3866,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Shell Bell"
     },
-    "Golduck-4 (653)": {
+    "Golduck-4 (650)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -3896,7 +3896,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Golem-2 (420)": {
+    "Golem-2 (419)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -3910,7 +3910,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Golem-3 (537)": {
+    "Golem-3 (535)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -3924,7 +3924,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Golem-4 (654)": {
+    "Golem-4 (651)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -3984,7 +3984,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Cheri Berry"
     },
-    "Granbull-2 (421)": {
+    "Granbull-2 (420)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -3999,7 +3999,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "White Herb"
     },
-    "Granbull-3 (538)": {
+    "Granbull-3 (536)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -4013,7 +4013,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Granbull-4 (655)": {
+    "Granbull-4 (652)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -4169,7 +4169,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Lum Berry"
     },
-    "Gyarados-2 (422)": {
+    "Gyarados-2 (421)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -4183,7 +4183,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Gyarados-3 (539)": {
+    "Gyarados-3 (537)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -4197,7 +4197,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Quick Claw"
     },
-    "Gyarados-4 (656)": {
+    "Gyarados-4 (653)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -4229,7 +4229,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Hariyama-2 (423)": {
+    "Hariyama-2 (422)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -4243,7 +4243,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Quick Claw"
     },
-    "Hariyama-3 (540)": {
+    "Hariyama-3 (538)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -4257,7 +4257,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Hariyama-4 (657)": {
+    "Hariyama-4 (654)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -4318,7 +4318,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Heracross-2 (424)": {
+    "Heracross-2 (423)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -4332,7 +4332,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Lum Berry"
     },
-    "Heracross-3 (541)": {
+    "Heracross-3 (539)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -4346,7 +4346,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Heracross-4 (658)": {
+    "Heracross-4 (655)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -4466,7 +4466,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Quick Claw"
     },
-    "Honchkrow-2 (425)": {
+    "Honchkrow-2 (424)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -4480,7 +4480,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Toxic Orb"
     },
-    "Honchkrow-3 (542)": {
+    "Honchkrow-3 (540)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -4494,7 +4494,7 @@ SETDEX_SV = {
       "nature": "Relaxed",
       "item": "Bright Powder"
     },
-    "Honchkrow-4 (659)": {
+    "Honchkrow-4 (656)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -4525,7 +4525,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Focus Band"
     },
-    "Houndoom-2 (426)": {
+    "Houndoom-2 (425)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -4539,7 +4539,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Houndoom-3 (543)": {
+    "Houndoom-3 (541)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -4554,7 +4554,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "White Herb"
     },
-    "Houndoom-4 (660)": {
+    "Houndoom-4 (657)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -4630,7 +4630,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Twisted Spoon"
     },
-    "Hypno-2 (427)": {
+    "Hypno-2 (426)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -4644,7 +4644,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Twisted Spoon"
     },
-    "Hypno-3 (544)": {
+    "Hypno-3 (542)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -4658,7 +4658,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Hypno-4 (661)": {
+    "Hypno-4 (658)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -4750,7 +4750,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Cheri Berry"
     },
-    "Jolteon-2 (428)": {
+    "Jolteon-2 (427)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -4764,7 +4764,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Scope Lens"
     },
-    "Jolteon-3 (545)": {
+    "Jolteon-3 (543)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -4779,7 +4779,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Bright Powder"
     },
-    "Jolteon-4 (662)": {
+    "Jolteon-4 (659)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -4839,7 +4839,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Jynx-2 (429)": {
+    "Jynx-2 (428)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -4853,7 +4853,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Bright Powder"
     },
-    "Jynx-3 (546)": {
+    "Jynx-3 (544)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -4867,7 +4867,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Quick Claw"
     },
-    "Jynx-4 (663)": {
+    "Jynx-4 (660)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -4973,7 +4973,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Kangaskhan-2 (430)": {
+    "Kangaskhan-2 (429)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -4987,7 +4987,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Kangaskhan-3 (547)": {
+    "Kangaskhan-3 (545)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -5001,7 +5001,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Salac Berry"
     },
-    "Kangaskhan-4 (664)": {
+    "Kangaskhan-4 (661)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -5062,7 +5062,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Kingdra-2 (431)": {
+    "Kingdra-2 (430)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5077,7 +5077,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Chesto Berry"
     },
-    "Kingdra-3 (548)": {
+    "Kingdra-3 (546)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5092,7 +5092,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Salac Berry"
     },
-    "Kingdra-4 (665)": {
+    "Kingdra-4 (662)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5215,7 +5215,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Cheri Berry"
     },
-    "Lanturn-2 (432)": {
+    "Lanturn-2 (431)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -5229,7 +5229,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Salac Berry"
     },
-    "Lanturn-3 (549)": {
+    "Lanturn-3 (547)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -5243,7 +5243,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Lanturn-4 (666)": {
+    "Lanturn-4 (663)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -5273,7 +5273,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Leftovers"
     },
-    "Lapras-2 (433)": {
+    "Lapras-2 (432)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -5287,7 +5287,7 @@ SETDEX_SV = {
       "nature": "Timid",
       "item": "Quick Claw"
     },
-    "Lapras-3 (550)": {
+    "Lapras-3 (548)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5302,7 +5302,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Bright Powder"
     },
-    "Lapras-4 (667)": {
+    "Lapras-4 (664)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -5316,7 +5316,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Lapras-5 (746)": {
+    "Lapras-5 (742)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -5330,7 +5330,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Shell Bell"
     },
-    "Lapras-6 (747)": {
+    "Lapras-6 (743)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -5344,7 +5344,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Lapras-7 (748)": {
+    "Lapras-7 (744)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5359,7 +5359,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Leppa Berry"
     },
-    "Lapras-8 (749)": {
+    "Lapras-8 (745)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5376,7 +5376,7 @@ SETDEX_SV = {
     }
   },
   "Latias": {
-    "Latias-1 (751)": {
+    "Latias-1 (747)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -5390,7 +5390,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Latias-2 (752)": {
+    "Latias-2 (748)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -5404,7 +5404,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Quick Claw"
     },
-    "Latias-3 (753)": {
+    "Latias-3 (749)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -5418,7 +5418,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Focus Band"
     },
-    "Latias-4 (754)": {
+    "Latias-4 (750)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -5433,7 +5433,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Leftovers"
     },
-    "Latias-5 (755)": {
+    "Latias-5 (751)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5448,7 +5448,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Latias-6 (756)": {
+    "Latias-6 (752)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -5462,7 +5462,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Latias-7 (757)": {
+    "Latias-7 (753)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -5476,7 +5476,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Leftovers"
     },
-    "Latias-8 (750)": {
+    "Latias-8 (746)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -5493,7 +5493,7 @@ SETDEX_SV = {
     }
   },
   "Latios": {
-    "Latios-1 (759)": {
+    "Latios-1 (755)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -5507,7 +5507,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Latios-2 (760)": {
+    "Latios-2 (756)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -5521,7 +5521,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Quick Claw"
     },
-    "Latios-3 (761)": {
+    "Latios-3 (757)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -5535,7 +5535,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Focus Band"
     },
-    "Latios-4 (762)": {
+    "Latios-4 (758)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -5549,7 +5549,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Latios-5 (763)": {
+    "Latios-5 (759)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5564,7 +5564,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Latios-6 (764)": {
+    "Latios-6 (760)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -5578,7 +5578,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Shell Bell"
     },
-    "Latios-7 (765)": {
+    "Latios-7 (761)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -5592,7 +5592,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Latios-8 (758)": {
+    "Latios-8 (754)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -5623,7 +5623,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Leftovers"
     },
-    "Leafeon-2 (434)": {
+    "Leafeon-2 (433)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -5637,7 +5637,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Assault Vest"
     },
-    "Leafeon-3 (551)": {
+    "Leafeon-3 (549)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -5651,7 +5651,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "White Herb"
     },
-    "Leafeon-4 (668)": {
+    "Leafeon-4 (665)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -5697,7 +5697,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Focus Band"
     },
-    "Lickilicky-2 (435)": {
+    "Lickilicky-2 (434)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -5712,7 +5712,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Leftovers"
     },
-    "Lickilicky-3 (552)": {
+    "Lickilicky-3 (550)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -5726,7 +5726,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Lickilicky-4 (669)": {
+    "Lickilicky-4 (666)": {
       "evs": {
         "at": 170,
         "df": 170,
@@ -5867,7 +5867,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Shell Bell"
     },
-    "Ludicolo-2 (436)": {
+    "Ludicolo-2 (435)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -5881,7 +5881,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Shell Bell"
     },
-    "Ludicolo-3 (553)": {
+    "Ludicolo-3 (551)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5896,7 +5896,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Leftovers"
     },
-    "Ludicolo-4 (670)": {
+    "Ludicolo-4 (667)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5973,7 +5973,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Machamp-2 (437)": {
+    "Machamp-2 (436)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -5988,7 +5988,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Machamp-3 (554)": {
+    "Machamp-3 (552)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -6003,7 +6003,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Quick Claw"
     },
-    "Machamp-4 (671)": {
+    "Machamp-4 (668)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -6017,7 +6017,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Scope Lens"
     },
-    "Machamp-5 (766)": {
+    "Machamp-5 (762)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -6031,7 +6031,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Machamp-6 (767)": {
+    "Machamp-6 (763)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -6045,7 +6045,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Machamp-7 (768)": {
+    "Machamp-7 (764)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -6059,7 +6059,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Machamp-8 (769)": {
+    "Machamp-8 (765)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -6166,7 +6166,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Cheri Berry"
     },
-    "Magmortar-2 (438)": {
+    "Magmortar-2 (437)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -6180,7 +6180,7 @@ SETDEX_SV = {
       "nature": "Timid",
       "item": "Scope Lens"
     },
-    "Magmortar-3 (555)": {
+    "Magmortar-3 (553)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -6194,7 +6194,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Quick Claw"
     },
-    "Magmortar-4 (672)": {
+    "Magmortar-4 (669)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -6254,7 +6254,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Salac Berry"
     },
-    "Magnezone-2 (439)": {
+    "Magnezone-2 (438)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -6268,7 +6268,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Chesto Berry"
     },
-    "Magnezone-3 (556)": {
+    "Magnezone-3 (554)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -6282,7 +6282,7 @@ SETDEX_SV = {
       "nature": "Timid",
       "item": "Quick Claw"
     },
-    "Magnezone-4 (673)": {
+    "Magnezone-4 (670)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -6312,7 +6312,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Mamoswine-2 (440)": {
+    "Mamoswine-2 (439)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -6326,7 +6326,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Loaded Dice"
     },
-    "Mamoswine-3 (557)": {
+    "Mamoswine-3 (555)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -6340,7 +6340,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Chesto Berry"
     },
-    "Mamoswine-4 (674)": {
+    "Mamoswine-4 (671)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -6370,7 +6370,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Magnet"
     },
-    "Manectric-2 (441)": {
+    "Manectric-2 (440)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -6384,7 +6384,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Petaya Berry"
     },
-    "Manectric-3 (558)": {
+    "Manectric-3 (556)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -6398,7 +6398,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Lum Berry"
     },
-    "Manectric-4 (675)": {
+    "Manectric-4 (672)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -6458,7 +6458,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Thick Club"
     },
-    "Marowak-2 (442)": {
+    "Marowak-2 (441)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -6472,7 +6472,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Thick Club"
     },
-    "Marowak-3 (559)": {
+    "Marowak-3 (557)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -6486,7 +6486,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Thick Club"
     },
-    "Marowak-4 (676)": {
+    "Marowak-4 (673)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -6592,7 +6592,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Focus Band"
     },
-    "Medicham-2 (443)": {
+    "Medicham-2 (442)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -6606,7 +6606,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Salac Berry"
     },
-    "Medicham-3 (560)": {
+    "Medicham-3 (558)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -6620,7 +6620,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Medicham-4 (677)": {
+    "Medicham-4 (674)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -6650,7 +6650,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Meganium-2 (444)": {
+    "Meganium-2 (443)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -6665,7 +6665,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Leftovers"
     },
-    "Meganium-3 (561)": {
+    "Meganium-3 (559)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -6679,7 +6679,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Salac Berry"
     },
-    "Meganium-4 (678)": {
+    "Meganium-4 (675)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -6711,7 +6711,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Leftovers"
     },
-    "Metagross-2 (445)": {
+    "Metagross-2 (444)": {
       "evs": {
         "hp": 170,
         "sd": 170,
@@ -6726,7 +6726,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Metagross-3 (562)": {
+    "Metagross-3 (560)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -6741,7 +6741,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Metagross-4 (679)": {
+    "Metagross-4 (676)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -6755,7 +6755,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Quick Claw"
     },
-    "Metagross-5 (770)": {
+    "Metagross-5 (766)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -6770,7 +6770,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Quick Claw"
     },
-    "Metagross-6 (771)": {
+    "Metagross-6 (767)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -6784,7 +6784,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Bright Powder"
     },
-    "Metagross-7 (772)": {
+    "Metagross-7 (768)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -6798,7 +6798,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Shell Bell"
     },
-    "Metagross-8 (773)": {
+    "Metagross-8 (769)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -6890,7 +6890,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Milotic-2 (446)": {
+    "Milotic-2 (445)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -6904,7 +6904,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Focus Band"
     },
-    "Milotic-3 (563)": {
+    "Milotic-3 (561)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -6919,7 +6919,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Leftovers"
     },
-    "Milotic-4 (680)": {
+    "Milotic-4 (677)": {
       "evs": {
         "df": 170,
         "sa": 170,
@@ -6951,7 +6951,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Focus Band"
     },
-    "Miltank-2 (447)": {
+    "Miltank-2 (446)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -6966,7 +6966,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Leftovers"
     },
-    "Miltank-3 (564)": {
+    "Miltank-3 (562)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -6980,7 +6980,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Salac Berry"
     },
-    "Miltank-4 (681)": {
+    "Miltank-4 (678)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -7040,7 +7040,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Focus Band"
     },
-    "Mismagius-2 (448)": {
+    "Mismagius-2 (447)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -7054,7 +7054,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Leftovers"
     },
-    "Mismagius-3 (565)": {
+    "Mismagius-3 (563)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -7068,7 +7068,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Mismagius-4 (682)": {
+    "Mismagius-4 (679)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -7085,7 +7085,7 @@ SETDEX_SV = {
     }
   },
   "Moltres": {
-    "Moltres-1 (775)": {
+    "Moltres-1 (771)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -7099,7 +7099,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Lum Berry"
     },
-    "Moltres-2 (776)": {
+    "Moltres-2 (772)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -7113,7 +7113,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "White Herb"
     },
-    "Moltres-3 (774)": {
+    "Moltres-3 (770)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -7127,7 +7127,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Chesto Berry"
     },
-    "Moltres-4 (777)": {
+    "Moltres-4 (773)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -7141,7 +7141,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "White Herb"
     },
-    "Moltres-5 (838)": {
+    "Moltres-5 (830)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -7155,7 +7155,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "White Herb"
     },
-    "Moltres-6 (839)": {
+    "Moltres-6 (831)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -7185,7 +7185,7 @@ SETDEX_SV = {
       "nature": "Relaxed",
       "item": "Leftovers"
     },
-    "Mr Mime-2 (449)": {
+    "Mr Mime-2 (448)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -7200,7 +7200,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Liechi Berry"
     },
-    "Mr Mime-3 (566)": {
+    "Mr Mime-3 (564)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -7214,7 +7214,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Choice Band"
     },
-    "Mr Mime-4 (683)": {
+    "Mr Mime-4 (680)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -7244,7 +7244,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Poison Barb"
     },
-    "Muk-2 (450)": {
+    "Muk-2 (449)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -7258,7 +7258,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Chesto Berry"
     },
-    "Muk-3 (567)": {
+    "Muk-3 (565)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -7272,7 +7272,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Lum Berry"
     },
-    "Muk-4 (684)": {
+    "Muk-4 (681)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -7334,7 +7334,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Nidoking-2 (451)": {
+    "Nidoking-2 (450)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -7348,7 +7348,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Shell Bell"
     },
-    "Nidoking-3 (568)": {
+    "Nidoking-3 (566)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -7362,7 +7362,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Leppa Berry"
     },
-    "Nidoking-4 (685)": {
+    "Nidoking-4 (682)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -7392,7 +7392,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Nidoqueen-2 (452)": {
+    "Nidoqueen-2 (451)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -7406,7 +7406,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Shell Bell"
     },
-    "Nidoqueen-3 (569)": {
+    "Nidoqueen-3 (567)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -7420,7 +7420,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Nidoqueen-4 (686)": {
+    "Nidoqueen-4 (683)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -7483,7 +7483,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Rawst Berry"
     },
-    "Ninetales-2 (453)": {
+    "Ninetales-2 (452)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -7497,7 +7497,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Lum Berry"
     },
-    "Ninetales-3 (570)": {
+    "Ninetales-3 (568)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -7511,7 +7511,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Bright Powder"
     },
-    "Ninetales-4 (687)": {
+    "Ninetales-4 (684)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -8111,7 +8111,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Lum Berry"
     },
-    "Porygon Z-2 (454)": {
+    "Porygon Z-2 (453)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -8125,7 +8125,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Chesto Berry"
     },
-    "Porygon Z-3 (571)": {
+    "Porygon Z-3 (569)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -8139,7 +8139,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Focus Band"
     },
-    "Porygon Z-4 (688)": {
+    "Porygon Z-4 (685)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -8201,7 +8201,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Weakness Policy"
     },
-    "Probopass-2 (455)": {
+    "Probopass-2 (454)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -8215,7 +8215,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Focus Band"
     },
-    "Probopass-3 (572)": {
+    "Probopass-3 (570)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -8229,7 +8229,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Chesto Berry"
     },
-    "Probopass-4 (689)": {
+    "Probopass-4 (686)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -8289,7 +8289,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Quagsire-2 (456)": {
+    "Quagsire-2 (455)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -8303,7 +8303,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Leftovers"
     },
-    "Quagsire-3 (573)": {
+    "Quagsire-3 (571)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -8317,7 +8317,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Quagsire-4 (690)": {
+    "Quagsire-4 (687)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -8409,7 +8409,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Raichu-2 (457)": {
+    "Raichu-2 (456)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -8423,7 +8423,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Raichu-3 (574)": {
+    "Raichu-3 (572)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -8437,7 +8437,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Cheri Berry"
     },
-    "Raichu-4 (691)": {
+    "Raichu-4 (688)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -8453,7 +8453,7 @@ SETDEX_SV = {
     }
   },
   "Raikou": {
-    "Raikou-1 (778)": {
+    "Raikou-1 (774)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -8467,7 +8467,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Chesto Berry"
     },
-    "Raikou-2 (779)": {
+    "Raikou-2 (775)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -8481,7 +8481,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Raikou-3 (780)": {
+    "Raikou-3 (776)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -8495,7 +8495,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Kings Rock"
     },
-    "Raikou-4 (781)": {
+    "Raikou-4 (777)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -8509,7 +8509,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Raikou-5 (840)": {
+    "Raikou-5 (832)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -8523,7 +8523,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Raikou-6 (841)": {
+    "Raikou-6 (833)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -8553,7 +8553,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Charcoal"
     },
-    "Rapidash-2 (458)": {
+    "Rapidash-2 (457)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -8568,7 +8568,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Leftovers"
     },
-    "Rapidash-3 (575)": {
+    "Rapidash-3 (573)": {
       "evs": {
         "hp": 170,
         "sa": 170,
@@ -8583,7 +8583,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "White Herb"
     },
-    "Rapidash-4 (692)": {
+    "Rapidash-4 (689)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -8631,7 +8631,7 @@ SETDEX_SV = {
     }
   },
   "Regice": {
-    "Regice-1 (782)": {
+    "Regice-1 (778)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -8645,7 +8645,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Chesto Berry"
     },
-    "Regice-2 (785)": {
+    "Regice-2 (781)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -8659,7 +8659,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Bright Powder"
     },
-    "Regice-3 (786)": {
+    "Regice-3 (782)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -8673,7 +8673,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Lum Berry"
     },
-    "Regice-4 (783)": {
+    "Regice-4 (779)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -8687,7 +8687,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Leftovers"
     },
-    "Regice-5 (787)": {
+    "Regice-5 (783)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -8702,7 +8702,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Leftovers"
     },
-    "Regice-6 (784)": {
+    "Regice-6 (780)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -8718,7 +8718,7 @@ SETDEX_SV = {
     }
   },
   "Regirock": {
-    "Regirock-1 (788)": {
+    "Regirock-1 (784)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -8732,7 +8732,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "White Herb"
     },
-    "Regirock-2 (789)": {
+    "Regirock-2 (785)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -8746,7 +8746,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Regirock-3 (790)": {
+    "Regirock-3 (786)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -8760,7 +8760,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Regirock-4 (791)": {
+    "Regirock-4 (787)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -8775,7 +8775,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Leftovers"
     },
-    "Regirock-5 (792)": {
+    "Regirock-5 (788)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -8789,7 +8789,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Regirock-6 (793)": {
+    "Regirock-6 (789)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -8805,7 +8805,7 @@ SETDEX_SV = {
     }
   },
   "Registeel": {
-    "Registeel-1 (794)": {
+    "Registeel-1 (790)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -8819,7 +8819,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Registeel-2 (799)": {
+    "Registeel-2 (795)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -8834,7 +8834,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Bright Powder"
     },
-    "Registeel-3 (795)": {
+    "Registeel-3 (791)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -8849,7 +8849,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Registeel-4 (796)": {
+    "Registeel-4 (792)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -8864,7 +8864,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Leftovers"
     },
-    "Registeel-5 (797)": {
+    "Registeel-5 (793)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -8879,7 +8879,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Leftovers"
     },
-    "Registeel-6 (798)": {
+    "Registeel-6 (794)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -8942,7 +8942,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Rhydon-2 (459)": {
+    "Rhydon-2 (458)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -8956,7 +8956,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Rhydon-3 (576)": {
+    "Rhydon-3 (574)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -8970,7 +8970,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Rhydon-4 (693)": {
+    "Rhydon-4 (690)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -9046,7 +9046,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Bright Powder"
     },
-    "Roserade-2 (460)": {
+    "Roserade-2 (459)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -9060,7 +9060,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Leftovers"
     },
-    "Roserade-3 (577)": {
+    "Roserade-3 (575)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -9074,7 +9074,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "White Herb"
     },
-    "Roserade-4 (694)": {
+    "Roserade-4 (691)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -9137,7 +9137,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Kings Rock"
     },
-    "Salamence-2 (461)": {
+    "Salamence-2 (460)": {
       "evs": {
         "at": 170,
         "sd": 170,
@@ -9152,7 +9152,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Leftovers"
     },
-    "Salamence-3 (578)": {
+    "Salamence-3 (576)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -9166,7 +9166,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Salac Berry"
     },
-    "Salamence-4 (695)": {
+    "Salamence-4 (692)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -9180,7 +9180,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Salamence-5 (802)": {
+    "Salamence-5 (798)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -9195,7 +9195,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Salamence-6 (803)": {
+    "Salamence-6 (799)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -9210,7 +9210,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Lum Berry"
     },
-    "Salamence-7 (800)": {
+    "Salamence-7 (796)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -9224,7 +9224,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Salamence-8 (801)": {
+    "Salamence-8 (797)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -9284,7 +9284,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Leftovers"
     },
-    "Sceptile-2 (462)": {
+    "Sceptile-2 (461)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -9298,7 +9298,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Sceptile-3 (579)": {
+    "Sceptile-3 (577)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -9313,7 +9313,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Scope Lens"
     },
-    "Sceptile-4 (696)": {
+    "Sceptile-4 (693)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -9343,7 +9343,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Scizor-2 (463)": {
+    "Scizor-2 (462)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -9357,7 +9357,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Scizor-3 (580)": {
+    "Scizor-3 (578)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -9371,7 +9371,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Focus Band"
     },
-    "Scizor-4 (697)": {
+    "Scizor-4 (694)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -9617,7 +9617,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Miracle Seed"
     },
-    "Shiftry-2 (464)": {
+    "Shiftry-2 (463)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -9631,7 +9631,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Chesto Berry"
     },
-    "Shiftry-3 (581)": {
+    "Shiftry-3 (579)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -9645,7 +9645,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Focus Band"
     },
-    "Shiftry-4 (698)": {
+    "Shiftry-4 (695)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -9675,7 +9675,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Chesto Berry"
     },
-    "Shuckle-2 (465)": {
+    "Shuckle-2 (464)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -9689,7 +9689,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Leftovers"
     },
-    "Shuckle-3 (582)": {
+    "Shuckle-3 (580)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -9703,7 +9703,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Leftovers"
     },
-    "Shuckle-4 (699)": {
+    "Shuckle-4 (696)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -9734,7 +9734,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Skarmory-2 (466)": {
+    "Skarmory-2 (465)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -9749,7 +9749,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Bright Powder"
     },
-    "Skarmory-3 (583)": {
+    "Skarmory-3 (581)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -9763,7 +9763,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Chesto Berry"
     },
-    "Skarmory-4 (700)": {
+    "Skarmory-4 (697)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -9810,7 +9810,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Scope Lens"
     },
-    "Slaking-2 (467)": {
+    "Slaking-2 (466)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -9824,7 +9824,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Leftovers"
     },
-    "Slaking-3 (584)": {
+    "Slaking-3 (582)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -9838,7 +9838,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Choice Band"
     },
-    "Slaking-4 (701)": {
+    "Slaking-4 (698)": {
       "evs": {
         "sa": 255,
         "sd": 255
@@ -9868,7 +9868,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Shell Bell"
     },
-    "Slowbro-2 (468)": {
+    "Slowbro-2 (467)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -9882,7 +9882,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Leftovers"
     },
-    "Slowbro-3 (585)": {
+    "Slowbro-3 (583)": {
       "evs": {
         "sa": 255,
         "sd": 255
@@ -9896,7 +9896,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Quick Claw"
     },
-    "Slowbro-4 (702)": {
+    "Slowbro-4 (699)": {
       "evs": {
         "sa": 255,
         "sd": 255
@@ -9926,7 +9926,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Leftovers"
     },
-    "Slowking-2 (469)": {
+    "Slowking-2 (468)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -9940,7 +9940,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Slowking-3 (586)": {
+    "Slowking-3 (584)": {
       "evs": {
         "at": 170,
         "df": 170,
@@ -9955,7 +9955,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Quick Claw"
     },
-    "Slowking-4 (703)": {
+    "Slowking-4 (700)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -10017,7 +10017,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Leftovers"
     },
-    "Snorlax-2 (470)": {
+    "Snorlax-2 (469)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10032,7 +10032,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Snorlax-3 (587)": {
+    "Snorlax-3 (585)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -10046,7 +10046,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Snorlax-4 (704)": {
+    "Snorlax-4 (701)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -10060,7 +10060,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Quick Claw"
     },
-    "Snorlax-5 (804)": {
+    "Snorlax-5 (800)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -10074,7 +10074,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Snorlax-6 (805)": {
+    "Snorlax-6 (801)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -10088,7 +10088,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Leftovers"
     },
-    "Snorlax-7 (806)": {
+    "Snorlax-7 (802)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10103,7 +10103,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Snorlax-8 (807)": {
+    "Snorlax-8 (803)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10226,7 +10226,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Starmie-2 (471)": {
+    "Starmie-2 (470)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10241,7 +10241,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Starmie-3 (588)": {
+    "Starmie-3 (586)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -10255,7 +10255,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Starmie-4 (705)": {
+    "Starmie-4 (702)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -10269,7 +10269,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Starmie-5 (808)": {
+    "Starmie-5 (804)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -10283,7 +10283,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Starmie-6 (811)": {
+    "Starmie-6 (807)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10298,7 +10298,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Leftovers"
     },
-    "Starmie-7 (809)": {
+    "Starmie-7 (805)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -10312,7 +10312,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Starmie-8 (810)": {
+    "Starmie-8 (806)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -10358,7 +10358,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Sitrus Berry"
     },
-    "Steelix-2 (472)": {
+    "Steelix-2 (471)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -10372,7 +10372,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Leftovers"
     },
-    "Steelix-3 (589)": {
+    "Steelix-3 (587)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -10386,7 +10386,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Steelix-4 (706)": {
+    "Steelix-4 (703)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -10432,7 +10432,7 @@ SETDEX_SV = {
     }
   },
   "Suicune": {
-    "Suicune-1 (812)": {
+    "Suicune-1 (808)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -10446,7 +10446,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Chesto Berry"
     },
-    "Suicune-2 (815)": {
+    "Suicune-2 (811)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10461,7 +10461,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Leftovers"
     },
-    "Suicune-3 (813)": {
+    "Suicune-3 (809)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -10475,7 +10475,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Suicune-4 (814)": {
+    "Suicune-4 (810)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -10489,7 +10489,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Suicune-5 (842)": {
+    "Suicune-5 (834)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -10503,7 +10503,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Lum Berry"
     },
-    "Suicune-6 (843)": {
+    "Suicune-6 (835)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10595,7 +10595,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Swampert-2 (473)": {
+    "Swampert-2 (472)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10610,7 +10610,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Quick Claw"
     },
-    "Swampert-3 (590)": {
+    "Swampert-3 (588)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -10624,7 +10624,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Shell Bell"
     },
-    "Swampert-4 (707)": {
+    "Swampert-4 (704)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -10684,7 +10684,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Chesto Berry"
     },
-    "Sylveon-2 (474)": {
+    "Sylveon-2 (473)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -10698,7 +10698,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Quick Claw"
     },
-    "Sylveon-3 (591)": {
+    "Sylveon-3 (589)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -10712,7 +10712,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Lum Berry"
     },
-    "Sylveon-4 (708)": {
+    "Sylveon-4 (705)": {
       "evs": {
         "df": 170,
         "sa": 170,
@@ -10774,7 +10774,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Sitrus Berry"
     },
-    "Tangrowth-2 (475)": {
+    "Tangrowth-2 (474)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -10788,7 +10788,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Miracle Seed"
     },
-    "Tangrowth-3 (592)": {
+    "Tangrowth-3 (590)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10803,7 +10803,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Leftovers"
     },
-    "Tangrowth-4 (709)": {
+    "Tangrowth-4 (706)": {
       "evs": {
         "sa": 255,
         "sd": 255
@@ -10833,7 +10833,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Persim Berry"
     },
-    "Tauros-2 (476)": {
+    "Tauros-2 (475)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -10847,7 +10847,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Tauros-3 (593)": {
+    "Tauros-3 (591)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -10861,7 +10861,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Leftovers"
     },
-    "Tauros-4 (710)": {
+    "Tauros-4 (707)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -10924,7 +10924,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Persim Berry"
     },
-    "Tentacruel-2 (477)": {
+    "Tentacruel-2 (476)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10939,7 +10939,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Leftovers"
     },
-    "Tentacruel-3 (594)": {
+    "Tentacruel-3 (592)": {
       "evs": {
         "df": 170,
         "sa": 170,
@@ -10954,7 +10954,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Shell Bell"
     },
-    "Tentacruel-4 (711)": {
+    "Tentacruel-4 (708)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -10985,7 +10985,7 @@ SETDEX_SV = {
       "nature": "Jolly",
       "item": "Choice Band"
     },
-    "Togekiss-2 (478)": {
+    "Togekiss-2 (477)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -11000,7 +11000,7 @@ SETDEX_SV = {
       "nature": "Careful",
       "item": "Flame Orb"
     },
-    "Togekiss-3 (595)": {
+    "Togekiss-3 (593)": {
       "evs": {
         "df": 255,
         "sa": 255
@@ -11014,7 +11014,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Leftovers"
     },
-    "Togekiss-4 (712)": {
+    "Togekiss-4 (709)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -11134,7 +11134,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Focus Band"
     },
-    "Typhlosion-2 (479)": {
+    "Typhlosion-2 (478)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -11149,7 +11149,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Scope Lens"
     },
-    "Typhlosion-3 (596)": {
+    "Typhlosion-3 (594)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -11163,7 +11163,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Salac Berry"
     },
-    "Typhlosion-4 (713)": {
+    "Typhlosion-4 (710)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -11180,7 +11180,7 @@ SETDEX_SV = {
     }
   },
   "Tyranitar": {
-    "Tyranitar-1 (844)": {
+    "Tyranitar-1 (836)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -11194,7 +11194,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Bright Powder"
     },
-    "Tyranitar-2 (845)": {
+    "Tyranitar-2 (837)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -11208,7 +11208,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Bright Powder"
     },
-    "Tyranitar-3 (846)": {
+    "Tyranitar-3 (838)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11223,7 +11223,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Focus Band"
     },
-    "Tyranitar-4 (847)": {
+    "Tyranitar-4 (839)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -11237,7 +11237,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Quick Claw"
     },
-    "Tyranitar-5 (848)": {
+    "Tyranitar-5 (840)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11252,7 +11252,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Tyranitar-6 (849)": {
+    "Tyranitar-6 (841)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11267,7 +11267,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Tyranitar-7 (850)": {
+    "Tyranitar-7 (842)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -11281,7 +11281,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Quick Claw"
     },
-    "Tyranitar-8 (851)": {
+    "Tyranitar-8 (843)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11296,7 +11296,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Lum Berry"
     },
-    "Tyranitar-9 (852)": {
+    "Tyranitar-9 (844)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -11310,7 +11310,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Quick Claw"
     },
-    "Tyranitar-10 (853)": {
+    "Tyranitar-10 (845)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11342,7 +11342,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Bright Powder"
     },
-    "Umbreon-2 (480)": {
+    "Umbreon-2 (479)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -11357,7 +11357,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Leftovers"
     },
-    "Umbreon-3 (597)": {
+    "Umbreon-3 (595)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11372,7 +11372,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Bright Powder"
     },
-    "Umbreon-4 (714)": {
+    "Umbreon-4 (711)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -11403,7 +11403,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Quick Claw"
     },
-    "Ursaluna-2 (481)": {
+    "Ursaluna-2 (480)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -11417,7 +11417,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Quick Claw"
     },
-    "Ursaluna-3 (598)": {
+    "Ursaluna-3 (596)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -11431,7 +11431,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Chesto Berry"
     },
-    "Ursaluna-4 (715)": {
+    "Ursaluna-4 (712)": {
       "evs": {
         "sa": 255,
         "sd": 255
@@ -11461,7 +11461,7 @@ SETDEX_SV = {
       "nature": "Brave",
       "item": "Quick Claw"
     },
-    "Ursaluna-Bloodmoon-2 (482)": {
+    "Ursaluna-Bloodmoon-2 (481)": {
       "evs": {
         "sa": 255,
         "sd": 255
@@ -11475,7 +11475,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Focus Band"
     },
-    "Ursaluna-Bloodmoon-3 (599)": {
+    "Ursaluna-Bloodmoon-3 (597)": {
       "evs": {
         "df": 255,
         "sp": 255
@@ -11489,7 +11489,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Chesto Berry"
     },
-    "Ursaluna-Bloodmoon-4 (716)": {
+    "Ursaluna-Bloodmoon-4 (713)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -11505,126 +11505,8 @@ SETDEX_SV = {
       "item": "Flame Orb"
     }
   },
-  "Ursaring": {
-    "Ursaring-1 (366)": {
-      "evs": {
-        "hp": 170,
-        "at": 170,
-        "sd": 170
-      },
-      "moves": [
-        "Mega Kick",
-        "Crunch",
-        "Aerial Ace",
-        "Counter"
-      ],
-      "nature": "Docile",
-      "item": "Quick Claw"
-    },
-    "Ursaring-2 (483)": {
-      "evs": {
-        "hp": 255,
-        "at": 255
-      },
-      "moves": [
-        "Double-Edge",
-        "Earthquake",
-        "Brick Break",
-        "Counter"
-      ],
-      "nature": "Adamant",
-      "item": "Quick Claw"
-    },
-    "Ursaring-3 (600)": {
-      "evs": {
-        "hp": 170,
-        "at": 170,
-        "sp": 170
-      },
-      "moves": [
-        "Fire Punch",
-        "Thunder Punch",
-        "Ice Punch",
-        "Crunch"
-      ],
-      "nature": "Adamant",
-      "item": "Lum Berry"
-    },
-    "Ursaring-4 (717)": {
-      "evs": {
-        "hp": 255,
-        "at": 255
-      },
-      "moves": [
-        "Double-Edge",
-        "Earthquake",
-        "Rock Slide",
-        "Aerial Ace"
-      ],
-      "nature": "Adamant",
-      "item": "Bright Powder"
-    },
-    "Ursaring-5 (816)": {
-      "evs": {
-        "hp": 255,
-        "at": 255
-      },
-      "moves": [
-        "Mega Kick",
-        "Aerial Ace",
-        "Rock Slide",
-        "Brick Break"
-      ],
-      "nature": "Adamant",
-      "item": "Choice Band"
-    },
-    "Ursaring-6 (817)": {
-      "evs": {
-        "hp": 255,
-        "at": 255
-      },
-      "moves": [
-        "Hyper Beam",
-        "Yawn",
-        "Swords Dance",
-        "Double Team"
-      ],
-      "nature": "Adamant",
-      "item": "Focus Band"
-    },
-    "Ursaring-7 (818)": {
-      "evs": {
-        "hp": 170,
-        "at": 170,
-        "sa": 170
-      },
-      "moves": [
-        "Facade",
-        "Earthquake",
-        "Crunch",
-        "Bulk Up"
-      ],
-      "nature": "Docile",
-      "item": "Quick Claw"
-    },
-    "Ursaring-8 (819)": {
-      "evs": {
-        "hp": 170,
-        "at": 170,
-        "sa": 170
-      },
-      "moves": [
-        "Facade",
-        "Earthquake",
-        "Crunch",
-        "Brick Break"
-      ],
-      "nature": "Docile",
-      "item": "Quick Claw"
-    }
-  },
   "Vaporeon": {
-    "Vaporeon-1 (367)": {
+    "Vaporeon-1 (366)": {
       "evs": {
         "at": 170,
         "df": 170,
@@ -11639,7 +11521,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Mystic Water"
     },
-    "Vaporeon-2 (484)": {
+    "Vaporeon-2 (482)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11654,7 +11536,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Shell Bell"
     },
-    "Vaporeon-3 (601)": {
+    "Vaporeon-3 (598)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11669,7 +11551,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Quick Claw"
     },
-    "Vaporeon-4 (718)": {
+    "Vaporeon-4 (714)": {
       "evs": {
         "hp": 170,
         "sa": 170,
@@ -11716,7 +11598,7 @@ SETDEX_SV = {
     }
   },
   "Venusaur": {
-    "Venusaur-1 (368)": {
+    "Venusaur-1 (367)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -11730,7 +11612,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Chesto Berry"
     },
-    "Venusaur-2 (485)": {
+    "Venusaur-2 (483)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11745,7 +11627,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Bright Powder"
     },
-    "Venusaur-3 (602)": {
+    "Venusaur-3 (599)": {
       "evs": {
         "at": 170,
         "df": 170,
@@ -11760,7 +11642,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Scope Lens"
     },
-    "Venusaur-4 (719)": {
+    "Venusaur-4 (715)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -11793,7 +11675,7 @@ SETDEX_SV = {
     }
   },
   "Victreebel": {
-    "Victreebel-1 (369)": {
+    "Victreebel-1 (368)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -11808,7 +11690,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Petaya Berry"
     },
-    "Victreebel-2 (486)": {
+    "Victreebel-2 (484)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -11822,7 +11704,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Leftovers"
     },
-    "Victreebel-3 (603)": {
+    "Victreebel-3 (600)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -11836,7 +11718,7 @@ SETDEX_SV = {
       "nature": "Relaxed",
       "item": "Assault Vest"
     },
-    "Victreebel-4 (720)": {
+    "Victreebel-4 (716)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -11883,7 +11765,7 @@ SETDEX_SV = {
     }
   },
   "Vileplume": {
-    "Vileplume-1 (370)": {
+    "Vileplume-1 (369)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -11897,7 +11779,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Persim Berry"
     },
-    "Vileplume-2 (487)": {
+    "Vileplume-2 (485)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -11912,7 +11794,7 @@ SETDEX_SV = {
       "nature": "Bold",
       "item": "Big Root"
     },
-    "Vileplume-3 (604)": {
+    "Vileplume-3 (601)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -11926,7 +11808,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Leftovers"
     },
-    "Vileplume-4 (721)": {
+    "Vileplume-4 (717)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -12018,7 +11900,7 @@ SETDEX_SV = {
     }
   },
   "Wailord": {
-    "Wailord-1 (371)": {
+    "Wailord-1 (370)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -12033,7 +11915,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Shell Bell"
     },
-    "Wailord-2 (488)": {
+    "Wailord-2 (486)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -12048,7 +11930,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Wailord-3 (605)": {
+    "Wailord-3 (602)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -12063,7 +11945,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Chesto Berry"
     },
-    "Wailord-4 (722)": {
+    "Wailord-4 (718)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -12080,7 +11962,7 @@ SETDEX_SV = {
     }
   },
   "Walrein": {
-    "Walrein-1 (372)": {
+    "Walrein-1 (371)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -12095,7 +11977,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Leftovers"
     },
-    "Walrein-2 (489)": {
+    "Walrein-2 (487)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -12110,7 +11992,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Focus Band"
     },
-    "Walrein-3 (606)": {
+    "Walrein-3 (603)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -12125,7 +12007,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Quick Claw"
     },
-    "Walrein-4 (723)": {
+    "Walrein-4 (719)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -12171,7 +12053,7 @@ SETDEX_SV = {
     }
   },
   "Weavile": {
-    "Weavile-1 (373)": {
+    "Weavile-1 (372)": {
       "evs": {
         "at": 255,
         "df": 255
@@ -12185,7 +12067,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Normal Gem"
     },
-    "Weavile-2 (490)": {
+    "Weavile-2 (488)": {
       "evs": {
         "hp": 255,
         "df": 255
@@ -12199,7 +12081,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Leftovers"
     },
-    "Weavile-3 (607)": {
+    "Weavile-3 (604)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -12213,7 +12095,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Focus Band"
     },
-    "Weavile-4 (724)": {
+    "Weavile-4 (720)": {
       "evs": {
         "hp": 255,
         "sp": 255
@@ -12259,7 +12141,7 @@ SETDEX_SV = {
     }
   },
   "Weezing": {
-    "Weezing-1 (374)": {
+    "Weezing-1 (373)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -12273,7 +12155,7 @@ SETDEX_SV = {
       "nature": "Modest",
       "item": "Bright Powder"
     },
-    "Weezing-2 (491)": {
+    "Weezing-2 (489)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -12287,7 +12169,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Sitrus Berry"
     },
-    "Weezing-3 (608)": {
+    "Weezing-3 (605)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -12301,7 +12183,7 @@ SETDEX_SV = {
       "nature": "Quirky",
       "item": "Focus Band"
     },
-    "Weezing-4 (725)": {
+    "Weezing-4 (721)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -12317,7 +12199,7 @@ SETDEX_SV = {
     }
   },
   "Whiscash": {
-    "Whiscash-1 (375)": {
+    "Whiscash-1 (374)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -12331,7 +12213,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Chesto Berry"
     },
-    "Whiscash-2 (492)": {
+    "Whiscash-2 (490)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -12345,7 +12227,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Shell Bell"
     },
-    "Whiscash-3 (609)": {
+    "Whiscash-3 (606)": {
       "evs": {
         "df": 255,
         "sd": 255
@@ -12359,7 +12241,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Chesto Berry"
     },
-    "Whiscash-4 (726)": {
+    "Whiscash-4 (722)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -12436,7 +12318,7 @@ SETDEX_SV = {
     }
   },
   "Wyrdeer": {
-    "Wyrdeer-1 (376)": {
+    "Wyrdeer-1 (375)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -12450,7 +12332,7 @@ SETDEX_SV = {
       "nature": "Quiet",
       "item": "Kings Rock"
     },
-    "Wyrdeer-2 (493)": {
+    "Wyrdeer-2 (491)": {
       "evs": {
         "hp": 255,
         "sd": 255
@@ -12464,7 +12346,7 @@ SETDEX_SV = {
       "nature": "Sassy",
       "item": "Assault Vest"
     },
-    "Wyrdeer-3 (610)": {
+    "Wyrdeer-3 (607)": {
       "evs": {
         "hp": 255,
         "at": 255
@@ -12478,7 +12360,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Bright Powder"
     },
-    "Wyrdeer-4 (727)": {
+    "Wyrdeer-4 (723)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -12495,7 +12377,7 @@ SETDEX_SV = {
     }
   },
   "Xatu": {
-    "Xatu-1 (377)": {
+    "Xatu-1 (376)": {
       "evs": {
         "hp": 170,
         "at": 170,
@@ -12510,7 +12392,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Sharp Beak"
     },
-    "Xatu-2 (494)": {
+    "Xatu-2 (492)": {
       "evs": {
         "hp": 170,
         "df": 170,
@@ -12525,7 +12407,7 @@ SETDEX_SV = {
       "nature": "Impish",
       "item": "Leftovers"
     },
-    "Xatu-3 (611)": {
+    "Xatu-3 (608)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -12539,7 +12421,7 @@ SETDEX_SV = {
       "nature": "Timid",
       "item": "Kings Rock"
     },
-    "Xatu-4 (728)": {
+    "Xatu-4 (724)": {
       "evs": {
         "hp": 255,
         "sa": 255
@@ -12571,7 +12453,7 @@ SETDEX_SV = {
     }
   },
   "Yanmega": {
-    "Yanmega-1 (378)": {
+    "Yanmega-1 (377)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -12585,7 +12467,7 @@ SETDEX_SV = {
       "nature": "Adamant",
       "item": "Choice Band"
     },
-    "Yanmega-2 (495)": {
+    "Yanmega-2 (493)": {
       "evs": {
         "sd": 255,
         "sp": 255
@@ -12599,7 +12481,7 @@ SETDEX_SV = {
       "nature": "Calm",
       "item": "Leftovers"
     },
-    "Yanmega-3 (612)": {
+    "Yanmega-3 (609)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -12613,7 +12495,7 @@ SETDEX_SV = {
       "nature": "Hardy",
       "item": "Liechi Berry"
     },
-    "Yanmega-4 (729)": {
+    "Yanmega-4 (725)": {
       "evs": {
         "at": 255,
         "sd": 255
@@ -12659,7 +12541,7 @@ SETDEX_SV = {
     }
   },
   "Zapdos": {
-    "Zapdos-1 (820)": {
+    "Zapdos-1 (812)": {
       "evs": {
         "sa": 255,
         "sp": 255
@@ -12673,7 +12555,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Lum Berry"
     },
-    "Zapdos-2 (821)": {
+    "Zapdos-2 (813)": {
       "evs": {
         "at": 255,
         "sp": 255
@@ -12687,7 +12569,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Bright Powder"
     },
-    "Zapdos-3 (822)": {
+    "Zapdos-3 (814)": {
       "evs": {
         "at": 170,
         "sa": 170,
@@ -12702,7 +12584,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Leftovers"
     },
-    "Zapdos-4 (823)": {
+    "Zapdos-4 (815)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -12716,7 +12598,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Shell Bell"
     },
-    "Zapdos-5 (855)": {
+    "Zapdos-5 (847)": {
       "evs": {
         "at": 255,
         "sa": 255
@@ -12730,7 +12612,7 @@ SETDEX_SV = {
       "nature": "Docile",
       "item": "Scope Lens"
     },
-    "Zapdos-6 (854)": {
+    "Zapdos-6 (846)": {
       "evs": {
         "at": 170,
         "sa": 170,
