@@ -290,7 +290,7 @@ SETDEX_SV = {
         "Fake Out",
         "Smack Down",
         "Astonish",
-        "Mega Punch"
+        "Mega Kick"
       ],
       "nature": "Adamant",
       "item": "Silk Scarf"
